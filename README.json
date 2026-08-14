@@ -85,7 +85,7 @@
             "last_commit": "2026-02-26T12:49:49Z",
             "owner": "IST-DASLab",
             "repo": "FP-Quant",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -99,7 +99,7 @@
             "last_commit": "2026-07-07T15:57:59Z",
             "owner": "zhangsq-nju",
             "repo": "EdgeRazor",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-01-17T17:43:28Z",
             "owner": "thu-ml",
             "repo": "SageAttention",
-            "stars": 3634
+            "stars": 3640
           }
         },
         {
@@ -679,7 +679,7 @@
             "last_commit": "2025-04-07T11:31:50Z",
             "owner": "chenzx921020",
             "repo": "MoEQuant",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -1276,10 +1276,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:51:58Z",
+            "last_commit": "2026-08-14T03:50:22Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeed",
-            "stars": 42927
+            "stars": 42930
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10988
+            "stars": 10989
           }
         },
         {
@@ -1304,7 +1304,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:09:12Z",
+            "last_commit": "2026-08-14T04:23:54Z",
             "owner": "intel",
             "repo": "neural-compressor",
             "stars": 2697
@@ -1321,7 +1321,7 @@
             "last_commit": "2024-03-27T01:46:02Z",
             "owner": "IST-DASLab",
             "repo": "gptq",
-            "stars": 2350
+            "stars": 2351
           }
         },
         {
@@ -1335,7 +1335,7 @@
             "last_commit": "2024-07-12T03:11:08Z",
             "owner": "mit-han-lab",
             "repo": "smoothquant",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -1744,10 +1744,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:51:58Z",
+            "last_commit": "2026-08-14T03:50:22Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeed",
-            "stars": 42927
+            "stars": 42930
           }
         },
         {
@@ -1775,7 +1775,7 @@
             "last_commit": "2024-07-12T03:11:08Z",
             "owner": "mit-han-lab",
             "repo": "smoothquant",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -2187,7 +2187,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32242
+            "stars": 32241
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32242
+            "stars": 32241
           }
         },
         {
@@ -3307,7 +3307,7 @@
             "last_commit": "2023-08-06T00:30:36Z",
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6287
+            "stars": 6286
           }
         },
         {
@@ -3405,7 +3405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:19:32.720Z",
+    "last_updated": "2026-08-14T19:13:01.743Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Model-Quantization",
