@@ -29,7 +29,7 @@
             "last_commit": "2026-08-07T13:41:49Z",
             "owner": "Tencent",
             "repo": "AngelSlim",
-            "stars": 1530
+            "stars": 1532
           }
         },
         {
@@ -287,20 +287,6 @@
         {
           "node_type": "item",
           "title": "[ICLR",
-          "description": "] KBVQ-MoE: KLT-guided SVD with Bias-Corrected Vector Quantization for MoE Large Language Models [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-04T06:56:50Z",
-            "owner": "xuzukang",
-            "repo": "kbvq_moe",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[ICLR",
           "description": "] Training Dynamics Impact Post-Training Quantization Robustness [code]",
           "children": [],
           "repo_info": {
@@ -309,6 +295,20 @@
             "last_commit": "2025-11-14T17:42:57Z",
             "owner": "aldakata",
             "repo": "TrainingDynamicsQuantizationRobustness",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICLR",
+          "description": "] KBVQ-MoE: KLT-guided SVD with Bias-Corrected Vector Quantization for MoE Large Language Models [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-04T06:56:50Z",
+            "owner": "xuzukang",
+            "repo": "kbvq_moe",
             "stars": 2
           }
         }
@@ -329,7 +329,7 @@
             "last_commit": "2026-01-17T17:43:28Z",
             "owner": "thu-ml",
             "repo": "SageAttention",
-            "stars": 3648
+            "stars": 3652
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2025-07-17T19:44:51Z",
             "owner": "mit-han-lab",
             "repo": "llm-awq",
-            "stars": 3617
+            "stars": 3618
           }
         },
         {
@@ -1276,10 +1276,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T06:36:57Z",
+            "last_commit": "2026-08-17T21:53:51Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeed",
-            "stars": 42950
+            "stars": 42957
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10991
+            "stars": 10990
           }
         },
         {
@@ -1304,7 +1304,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:13:44Z",
+            "last_commit": "2026-08-18T16:33:31Z",
             "owner": "intel",
             "repo": "neural-compressor",
             "stars": 2697
@@ -1321,7 +1321,7 @@
             "last_commit": "2024-03-27T01:46:02Z",
             "owner": "IST-DASLab",
             "repo": "gptq",
-            "stars": 2353
+            "stars": 2355
           }
         },
         {
@@ -1744,10 +1744,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T06:36:57Z",
+            "last_commit": "2026-08-17T21:53:51Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeed",
-            "stars": 42950
+            "stars": 42957
           }
         },
         {
@@ -1758,10 +1758,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:36:04Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "bitsandbytes-foundation",
             "repo": "bitsandbytes",
-            "stars": 8420
+            "stars": 8425
           }
         },
         {
@@ -1789,7 +1789,7 @@
             "last_commit": "2022-08-18T14:33:17Z",
             "owner": "facebookresearch",
             "repo": "bitsandbytes",
-            "stars": 779
+            "stars": 778
           }
         },
         {
@@ -2047,6 +2047,20 @@
         {
           "node_type": "item",
           "title": "[IJCAI",
+          "description": "] BiFSMN: Binary Neural Network for Keyword Spotting [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-10T08:12:26Z",
+            "owner": "htqin",
+            "repo": "BiFSMN",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IJCAI",
           "description": "] RAPQ: Rescuing Accuracy for Power-of-Two Low-bit Post-training Quantization [code]",
           "children": [],
           "repo_info": {
@@ -2056,20 +2070,6 @@
             "owner": "BillAmihom",
             "repo": "RAPQ",
             "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[IJCAI",
-          "description": "] BiFSMN: Binary Neural Network for Keyword Spotting [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-10T08:12:26Z",
-            "owner": "htqin",
-            "repo": "BiFSMN",
-            "stars": 22
           }
         },
         {
@@ -3307,7 +3307,7 @@
             "last_commit": "2023-08-06T00:30:36Z",
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6286
+            "stars": 6285
           }
         },
         {
@@ -3383,7 +3383,7 @@
             "last_commit": "2025-03-27T09:13:02Z",
             "owner": "Zhen-Dong",
             "repo": "Awesome-Quantization-Papers",
-            "stars": 842
+            "stars": 843
           }
         },
         {
@@ -3405,7 +3405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:56:56.285Z",
+    "last_updated": "2026-08-18T18:55:28.201Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Model-Quantization",
