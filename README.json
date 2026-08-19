@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-07T13:41:49Z",
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1533
+                "stars": 1534
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 1071157331,
                 "language": "Python",
-                "last_commit": "2026-07-01T20:14:51Z",
+                "last_commit": "2026-08-19T18:20:36Z",
                 "owner": "z-lab",
                 "repo": "paroquant",
                 "stars": 330
@@ -961,7 +961,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3619
+                "stars": 3618
               }
             },
             {
@@ -1355,10 +1355,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:08:53Z",
+                "last_commit": "2026-08-19T14:54:42Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42959
+                "stars": 42961
               }
             },
             {
@@ -1385,7 +1385,7 @@
                 "archived": false,
                 "id": 281528773,
                 "language": "Python",
-                "last_commit": "2026-08-19T02:50:41Z",
+                "last_commit": "2026-08-19T15:49:40Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2697
@@ -1857,10 +1857,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:08:53Z",
+                "last_commit": "2026-08-19T14:54:42Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42959
+                "stars": 42961
               }
             },
             {
@@ -1872,10 +1872,10 @@
                 "archived": false,
                 "id": 373674258,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:02:06Z",
+                "last_commit": "2026-08-19T15:51:24Z",
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8427
+                "stars": 8428
               }
             },
             {
@@ -3631,7 +3631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:43.600Z",
+    "last_updated": "2026-08-19T18:52:29.387Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_id": 153568046,
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
