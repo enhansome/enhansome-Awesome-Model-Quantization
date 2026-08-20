@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-07T13:41:49Z",
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1534
+                "stars": 1536
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-19T18:20:36Z",
                 "owner": "z-lab",
                 "repo": "paroquant",
-                "stars": 330
+                "stars": 331
               }
             },
             {
@@ -113,6 +113,21 @@
             {
               "node_type": "item",
               "title": "[ICLR",
+              "description": "] MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014597830,
+                "language": "Cuda",
+                "last_commit": "2026-04-02T10:48:10Z",
+                "owner": "lwy2020",
+                "repo": "MicroMix",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
               "description": "] PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs [code]",
               "children": [],
               "repo_info": {
@@ -128,16 +143,16 @@
             {
               "node_type": "item",
               "title": "[ICLR",
-              "description": "] MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models [code]",
+              "description": "] UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 1014597830,
-                "language": "Cuda",
-                "last_commit": "2026-04-02T10:48:10Z",
-                "owner": "lwy2020",
-                "repo": "MicroMix",
-                "stars": 29
+                "id": 1108815894,
+                "language": "Python",
+                "last_commit": "2026-01-27T16:00:03Z",
+                "owner": "enyac-group",
+                "repo": "UniQL",
+                "stars": 18
               }
             },
             {
@@ -152,21 +167,6 @@
                 "last_commit": "2026-04-16T11:46:06Z",
                 "owner": "Xingyu-Zheng",
                 "repo": "FOEM",
-                "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "[ICLR",
-              "description": "] UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1108815894,
-                "language": "Python",
-                "last_commit": "2026-01-27T16:00:03Z",
-                "owner": "enyac-group",
-                "repo": "UniQL",
                 "stars": 17
               }
             },
@@ -339,7 +339,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3654
+                "stars": 3660
               }
             },
             {
@@ -1081,7 +1081,7 @@
                 "last_commit": "2025-01-11T17:16:38Z",
                 "owner": "Aaronhuang-778",
                 "repo": "BiLLM",
-                "stars": 235
+                "stars": 236
               }
             },
             {
@@ -1111,7 +1111,7 @@
                 "last_commit": "2025-06-22T01:36:39Z",
                 "owner": "Cornell-RelaxML",
                 "repo": "qtip",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -1355,10 +1355,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:54:42Z",
+                "last_commit": "2026-08-20T17:07:55Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42961
+                "stars": 42969
               }
             },
             {
@@ -1373,7 +1373,7 @@
                 "last_commit": "2024-06-10T19:20:16Z",
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10991
+                "stars": 10989
               }
             },
             {
@@ -1385,10 +1385,10 @@
                 "archived": false,
                 "id": 281528773,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:49:40Z",
+                "last_commit": "2026-08-20T13:28:40Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
-                "stars": 2697
+                "stars": 2698
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "last_commit": "2024-03-27T01:46:02Z",
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2355
+                "stars": 2356
               }
             },
             {
@@ -1418,7 +1418,7 @@
                 "last_commit": "2024-07-12T03:11:08Z",
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1675
+                "stars": 1674
               }
             },
             {
@@ -1857,10 +1857,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:54:42Z",
+                "last_commit": "2026-08-20T17:07:55Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42961
+                "stars": 42969
               }
             },
             {
@@ -1890,7 +1890,7 @@
                 "last_commit": "2024-07-12T03:11:08Z",
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1675
+                "stars": 1674
               }
             },
             {
@@ -2332,7 +2332,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -2699,7 +2699,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -2714,7 +2714,7 @@
                 "last_commit": "2024-01-22T01:11:22Z",
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3164
+                "stars": 3165
               }
             },
             {
@@ -2729,7 +2729,7 @@
                 "last_commit": "2024-01-22T01:11:22Z",
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3164
+                "stars": 3165
               }
             },
             {
@@ -3631,7 +3631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:52:29.387Z",
+    "last_updated": "2026-08-20T18:58:26.652Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_id": 153568046,
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
