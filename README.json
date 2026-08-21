@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-07T13:41:49Z",
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1536
+                "stars": 1538
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-06T13:53:53Z",
+                "last_commit": "2026-08-21T05:58:53Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 416
+                "stars": 421
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-19T18:20:36Z",
                 "owner": "z-lab",
                 "repo": "paroquant",
-                "stars": 331
+                "stars": 332
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3660
+                "stars": 3662
               }
             },
             {
@@ -351,10 +351,10 @@
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-06T13:53:53Z",
+                "last_commit": "2026-08-21T05:58:53Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 416
+                "stars": 421
               }
             },
             {
@@ -519,7 +519,7 @@
                 "last_commit": "2026-04-13T09:48:04Z",
                 "owner": "snu-mllab",
                 "repo": "GuidedQuant",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -961,7 +961,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3618
+                "stars": 3619
               }
             },
             {
@@ -991,7 +991,7 @@
                 "last_commit": "2024-08-13T09:45:30Z",
                 "owner": "SqueezeAILab",
                 "repo": "SqueezeLLM",
-                "stars": 724
+                "stars": 723
               }
             },
             {
@@ -1081,7 +1081,7 @@
                 "last_commit": "2025-01-11T17:16:38Z",
                 "owner": "Aaronhuang-778",
                 "repo": "BiLLM",
-                "stars": 236
+                "stars": 235
               }
             },
             {
@@ -1141,7 +1141,7 @@
                 "last_commit": "2024-03-13T09:30:53Z",
                 "owner": "yuhuixu1993",
                 "repo": "qa-lora",
-                "stars": 147
+                "stars": 146
               }
             },
             {
@@ -1355,10 +1355,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:07:55Z",
+                "last_commit": "2026-08-21T18:07:17Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42969
+                "stars": 42974
               }
             },
             {
@@ -1373,7 +1373,7 @@
                 "last_commit": "2024-06-10T19:20:16Z",
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10989
+                "stars": 10991
               }
             },
             {
@@ -1385,10 +1385,10 @@
                 "archived": false,
                 "id": 281528773,
                 "language": "Python",
-                "last_commit": "2026-08-20T13:28:40Z",
+                "last_commit": "2026-08-21T05:42:00Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
-                "stars": 2698
+                "stars": 2701
               }
             },
             {
@@ -1573,21 +1573,6 @@
             },
             {
               "node_type": "item",
-              "title": "[ICML",
-              "description": "] BiBench: Benchmarking and Analyzing Network Binarization [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 635049806,
-                "language": "Python",
-                "last_commit": "2024-03-04T15:37:56Z",
-                "owner": "AI-Efficiency",
-                "repo": "BiBench",
-                "stars": 56
-              }
-            },
-            {
-              "node_type": "item",
               "title": "[NeurIPS",
               "description": "] QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution [code]",
               "children": [],
@@ -1599,6 +1584,21 @@
                 "owner": "htqin",
                 "repo": "QuantSR",
                 "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] BiBench: Benchmarking and Analyzing Network Binarization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635049806,
+                "language": "Python",
+                "last_commit": "2024-03-04T15:37:56Z",
+                "owner": "AI-Efficiency",
+                "repo": "BiBench",
+                "stars": 55
               }
             },
             {
@@ -1648,21 +1648,6 @@
             },
             {
               "node_type": "item",
-              "title": "[CVPR",
-              "description": "] Q-DETR: An Efficient Low-Bit Quantized Detection Transformer [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 616917016,
-                "language": "Python",
-                "last_commit": "2023-09-03T08:17:52Z",
-                "owner": "SteveTsui",
-                "repo": "Q-DETR",
-                "stars": 38
-              }
-            },
-            {
-              "node_type": "item",
               "title": "[TNNLS",
               "description": "] BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance [code]",
               "children": [],
@@ -1673,6 +1658,21 @@
                 "last_commit": "2023-02-10T08:13:31Z",
                 "owner": "htqin",
                 "repo": "BiFSMNv2",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR",
+              "description": "] Q-DETR: An Efficient Low-Bit Quantized Detection Transformer [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616917016,
+                "language": "Python",
+                "last_commit": "2023-09-03T08:17:52Z",
+                "owner": "SteveTsui",
+                "repo": "Q-DETR",
                 "stars": 37
               }
             },
@@ -1857,10 +1857,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:07:55Z",
+                "last_commit": "2026-08-21T18:07:17Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42969
+                "stars": 42974
               }
             },
             {
@@ -1875,7 +1875,7 @@
                 "last_commit": "2026-08-19T15:51:24Z",
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8428
+                "stars": 8429
               }
             },
             {
@@ -1950,7 +1950,7 @@
                 "last_commit": "2023-03-09T17:26:39Z",
                 "owner": "Qualcomm-AI-research",
                 "repo": "FP8-quantization",
-                "stars": 173
+                "stars": 172
               }
             },
             {
@@ -2332,7 +2332,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32233
               }
             },
             {
@@ -2699,7 +2699,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32233
               }
             },
             {
@@ -2774,7 +2774,7 @@
                 "last_commit": "2021-11-11T16:31:36Z",
                 "owner": "liuzechun",
                 "repo": "ReActNet",
-                "stars": 266
+                "stars": 265
               }
             },
             {
@@ -2849,7 +2849,7 @@
                 "last_commit": "2022-02-01T21:05:25Z",
                 "owner": "jwfromm",
                 "repo": "Riptide",
-                "stars": 159
+                "stars": 158
               }
             },
             {
@@ -3631,7 +3631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:58:26.652Z",
+    "last_updated": "2026-08-21T18:55:41.364Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_id": 153568046,
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
