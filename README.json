@@ -423,7 +423,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3673
+                "stars": 3675
               }
             },
             {
@@ -1439,10 +1439,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:36:36Z",
+                "last_commit": "2026-08-24T18:03:23Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42985
+                "stars": 42987
               }
             },
             {
@@ -1457,7 +1457,7 @@
                 "last_commit": "2024-06-10T19:20:16Z",
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10997
+                "stars": 10998
               }
             },
             {
@@ -1487,7 +1487,7 @@
                 "last_commit": "2024-03-27T01:46:02Z",
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2358
+                "stars": 2359
               }
             },
             {
@@ -1941,10 +1941,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:36:36Z",
+                "last_commit": "2026-08-24T18:03:23Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42985
+                "stars": 42987
               }
             },
             {
@@ -2416,7 +2416,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32235
               }
             },
             {
@@ -2443,7 +2443,7 @@
                 "archived": false,
                 "id": 437161212,
                 "language": "Python",
-                "last_commit": "2026-08-06T14:36:37Z",
+                "last_commit": "2026-08-24T18:46:08Z",
                 "owner": "google",
                 "repo": "aqt",
                 "stars": 360
@@ -2783,7 +2783,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32235
               }
             },
             {
@@ -3737,7 +3737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:32.273Z",
+    "last_updated": "2026-08-24T18:58:15.324Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_id": 153568046,
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
