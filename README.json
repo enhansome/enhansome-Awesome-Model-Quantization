@@ -1,6 +1,90 @@
 {
   "items": [
     {
+      "description": "Venue: ICML 2023\nAuthors: Haotong Qin, Mingyuan Zhang, Yifu Ding, Aoyu Li, Zhongang Cai, Ziwei Liu, Fisher Yu, Xianglong Liu.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1. BiBench: Benchmarking and Analyzing Network Binarization [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635049806,
+            "language": "Python",
+            "last_commit": "2024-03-04T15:37:56Z",
+            "owner": "AI-Efficiency",
+            "repo": "BiBench",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "Venue: Visual Intelligence 2024\nAuthors: Wei Huang, Xingyu Zheng, Xudong Ma, Haotong Qin, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2. An empirical study of LLaMA3 quantization: from LLMs to MLLMs [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 789743429,
+            "language": "Python",
+            "last_commit": "2025-01-14T17:56:25Z",
+            "owner": "Macaronlin",
+            "repo": "LLaMA3-Quantization",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "Bibtex"
+    },
+    {
+      "description": "Venue: Visual Intelligence 2026\nAuthors: Xingyu Zheng, Yuye Li, Haoran Chu, Yue Feng, Xudong Ma, Jie Luo, Jinyang Guo, Haotong Qin, Michele Magno, Xianglong Liu.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3. An Empirical Study of Qwen3 Quantization [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 977675098,
+            "language": "Python",
+            "last_commit": "2025-09-19T13:49:44Z",
+            "owner": "AI-Efficiency",
+            "repo": "Qwen3-Quantization-Toolkit",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Bibtex"
+    },
+    {
+      "description": "Venue: EMNLP 2024 Industry Track\nAuthors: Ruihao Gong, Yang Yong, Shiqiao Gu, Yushi Huang, Chengtao Lv, Yunchen Zhang, Xianglong Liu, Dacheng Tao.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "4. LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768146998,
+            "language": "Python",
+            "last_commit": "2026-05-14T08:54:03Z",
+            "owner": "ModelTC",
+            "repo": "LightCompress",
+            "stars": 742
+          }
+        }
+      ],
+      "title": "Bibtex"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -17,7 +101,7 @@
                 "last_commit": "2026-08-07T13:41:49Z",
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1541
+                "stars": 1542
               }
             },
             {
@@ -44,10 +128,10 @@
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:58:53Z",
+                "last_commit": "2026-08-24T13:59:06Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 422
+                "stars": 424
               }
             },
             {
@@ -62,7 +146,7 @@
                 "last_commit": "2026-08-19T18:20:36Z",
                 "owner": "z-lab",
                 "repo": "paroquant",
-                "stars": 334
+                "stars": 338
               }
             },
             {
@@ -339,7 +423,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3669
+                "stars": 3673
               }
             },
             {
@@ -351,10 +435,10 @@
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:58:53Z",
+                "last_commit": "2026-08-24T13:59:06Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 422
+                "stars": 424
               }
             },
             {
@@ -429,7 +513,7 @@
                 "last_commit": "2026-03-30T15:40:14Z",
                 "owner": "VectorDB-NTU",
                 "repo": "Extended-RaBitQ",
-                "stars": 72
+                "stars": 73
               }
             },
             {
@@ -961,7 +1045,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3619
+                "stars": 3620
               }
             },
             {
@@ -1036,7 +1120,7 @@
                 "last_commit": "2024-11-26T11:08:33Z",
                 "owner": "spcl",
                 "repo": "QuaRot",
-                "stars": 531
+                "stars": 532
               }
             },
             {
@@ -1355,10 +1439,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:31:03Z",
+                "last_commit": "2026-08-24T10:36:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42980
+                "stars": 42985
               }
             },
             {
@@ -1373,7 +1457,7 @@
                 "last_commit": "2024-06-10T19:20:16Z",
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10993
+                "stars": 10997
               }
             },
             {
@@ -1388,7 +1472,7 @@
                 "last_commit": "2026-08-21T05:42:00Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
-                "stars": 2701
+                "stars": 2703
               }
             },
             {
@@ -1403,7 +1487,7 @@
                 "last_commit": "2024-03-27T01:46:02Z",
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2356
+                "stars": 2358
               }
             },
             {
@@ -1418,7 +1502,7 @@
                 "last_commit": "2024-07-12T03:11:08Z",
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1674
+                "stars": 1677
               }
             },
             {
@@ -1857,10 +1941,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:31:03Z",
+                "last_commit": "2026-08-24T10:36:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42980
+                "stars": 42985
               }
             },
             {
@@ -1875,7 +1959,7 @@
                 "last_commit": "2026-08-19T15:51:24Z",
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8431
+                "stars": 8435
               }
             },
             {
@@ -1890,7 +1974,7 @@
                 "last_commit": "2024-07-12T03:11:08Z",
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1674
+                "stars": 1677
               }
             },
             {
@@ -2332,7 +2416,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32234
               }
             },
             {
@@ -2699,7 +2783,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32234
               }
             },
             {
@@ -3589,6 +3673,28 @@
           "description": null,
           "node_type": "group",
           "title": "2016"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[NeurIPS",
+              "description": "] BinaryConnect: Training Deep Neural Networks with binary weights during propagations [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40491444,
+                "language": "Python",
+                "last_commit": "2016-02-15T14:12:31Z",
+                "owner": "MatthieuCourbariaux",
+                "repo": "BinaryConnect",
+                "stars": 383
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2015"
         }
       ],
       "title": "Papers"
@@ -3631,7 +3737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:47:39.493Z",
+    "last_updated": "2026-08-24T14:04:32.273Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_id": 153568046,
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
