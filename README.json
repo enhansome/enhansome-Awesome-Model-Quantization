@@ -91,7 +91,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "Tencent/AngelSlim",
               "description": "] Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification [code]",
               "children": [],
               "repo_info": {
@@ -121,14 +121,14 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "FujitsuResearch/OneCompression",
               "description": "] OneComp: One-Line Revolution for Generative AI Model Compression [Code]",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:59:06Z",
+                "last_commit": "2026-08-25T02:22:59Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 424
@@ -166,7 +166,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "zhangsq-nju/EdgeRazor",
               "description": "] EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation [code]",
               "children": [],
               "repo_info": {
@@ -435,7 +435,7 @@
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:59:06Z",
+                "last_commit": "2026-08-25T02:22:59Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 424
@@ -1045,7 +1045,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3620
+                "stars": 3621
               }
             },
             {
@@ -1060,7 +1060,7 @@
                 "last_commit": "2025-11-26T07:22:07Z",
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 907
+                "stars": 908
               }
             },
             {
@@ -1110,7 +1110,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "spcl/QuaRot",
               "description": "] QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs [code]",
               "children": [],
               "repo_info": {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2025-11-20T20:34:33Z",
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 428
+                "stars": 429
               }
             },
             {
@@ -1290,7 +1290,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "Qualcomm-AI-research/gptvq",
               "description": "] GPTVQ: The Blessing of Dimensionality for LLM Quantization [code]",
               "children": [],
               "repo_info": {
@@ -1365,7 +1365,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "shawnricecake/squant",
               "description": "] EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge [code]",
               "children": [],
               "repo_info": {
@@ -1439,10 +1439,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:03:23Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42987
+                "stars": 42991
               }
             },
             {
@@ -1462,14 +1462,14 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "intel/neural-compressor",
               "description": "] Efficient Post-training Quantization with FP8 Formats [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 281528773,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:42:00Z",
+                "last_commit": "2026-08-25T03:37:55Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2703
@@ -1522,7 +1522,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "efeslab/Atom",
               "description": "] Atom: Low-bit Quantization for Efficient and Accurate LLM Serving [code]",
               "children": [],
               "repo_info": {
@@ -1567,7 +1567,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "hahnyuan/RPTQ4LLM",
               "description": "] RPTQ: Reorder-based Post-training Quantization for Large Language Models [code]",
               "children": [],
               "repo_info": {
@@ -1941,10 +1941,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:03:23Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42987
+                "stars": 42991
               }
             },
             {
@@ -1959,12 +1959,12 @@
                 "last_commit": "2026-08-19T15:51:24Z",
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8435
+                "stars": 8436
               }
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "mit-han-lab/smoothquant",
               "description": "] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [code]",
               "children": [],
               "repo_info": {
@@ -2443,7 +2443,7 @@
                 "archived": false,
                 "id": 437161212,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:46:08Z",
+                "last_commit": "2026-08-25T00:58:09Z",
                 "owner": "google",
                 "repo": "aqt",
                 "stars": 360
@@ -2571,7 +2571,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "SHI-Labs/Any-Precision-DNNs",
               "description": "] Any-Precision Deep Neural Networks [code]",
               "children": [],
               "repo_info": {
@@ -2773,7 +2773,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "facebookresearch/fairseq",
               "description": "] Training with Quantization Noise for Extreme Model Compression [code]",
               "children": [],
               "repo_info": {
@@ -2803,7 +2803,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "huawei-noah/Pretrained-Language-Model",
               "description": "] BinaryBERT: Pushing the Limit of BERT Quantization [code]",
               "children": [],
               "repo_info": {
@@ -2863,7 +2863,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "hpi-xnor/BMXNet-v2",
               "description": "] MeliusNet: Can Binary Neural Networks Achieve MobileNet-level Accuracy? [code]",
               "children": [],
               "repo_info": {
@@ -2998,7 +2998,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "pnnl/TCBNN",
               "description": "] Accelerating Binarized Neural Networks via Bit-Tensor-Cores in Turing GPUs [code]",
               "children": [],
               "repo_info": {
@@ -3170,7 +3170,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "JDAI-CV/dabnn",
               "description": "] daBNN: A Super Fast Inference Framework for Binary Neural Networks on ARM devices [code]",
               "children": [],
               "repo_info": {
@@ -3215,7 +3215,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "hpi-xnor/BMXNet-v2",
               "description": "] Back to Simplicity: How to Train Accurate BNNs from Scratch? [code]",
               "children": [],
               "repo_info": {
@@ -3372,7 +3372,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "hpi-xnor/BMXNet-v2",
               "description": "] Training Competitive Binary Neural Networks from Scratch [code]",
               "children": [],
               "repo_info": {
@@ -3462,7 +3462,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "yukang2017/NAS-quantization",
               "description": "] Joint Neural Architecture Search and Quantization [code]",
               "children": [],
               "repo_info": {
@@ -3559,7 +3559,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "gudovskiy/ShiftCNN",
               "description": "] ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks [code]",
               "children": [],
               "repo_info": {
@@ -3596,7 +3596,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arXiv",
+              "title": "tensorpack/tensorpack",
               "description": "] DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients [code]",
               "children": [],
               "repo_info": {
@@ -3737,7 +3737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:58:15.324Z",
+    "last_updated": "2026-08-25T06:00:08.810Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_id": 153568046,
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
