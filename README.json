@@ -101,7 +101,7 @@
                 "last_commit": "2026-08-07T13:41:49Z",
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1542
+                "stars": 1543
               }
             },
             {
@@ -128,7 +128,7 @@
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:22:59Z",
+                "last_commit": "2026-08-25T14:11:11Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 424
@@ -311,7 +311,7 @@
                 "last_commit": "2025-10-08T08:31:18Z",
                 "owner": "wlfeng0509",
                 "repo": "QuantSparse",
-                "stars": 11
+                "stars": 12
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3675
+                "stars": 3679
               }
             },
             {
@@ -435,7 +435,7 @@
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:22:59Z",
+                "last_commit": "2026-08-25T14:11:11Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 424
@@ -1045,7 +1045,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3621
+                "stars": 3622
               }
             },
             {
@@ -1105,7 +1105,7 @@
                 "last_commit": "2026-02-08T11:31:11Z",
                 "owner": "Vahe1994",
                 "repo": "SpQR",
-                "stars": 555
+                "stars": 556
               }
             },
             {
@@ -1439,10 +1439,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:19:36Z",
+                "last_commit": "2026-08-25T18:01:44Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42991
+                "stars": 42996
               }
             },
             {
@@ -1457,7 +1457,7 @@
                 "last_commit": "2024-06-10T19:20:16Z",
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10998
+                "stars": 10997
               }
             },
             {
@@ -1517,7 +1517,7 @@
                 "last_commit": "2024-03-21T05:50:44Z",
                 "owner": "Xiuyu-Li",
                 "repo": "q-diffusion",
-                "stars": 379
+                "stars": 380
               }
             },
             {
@@ -1941,10 +1941,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:19:36Z",
+                "last_commit": "2026-08-25T18:01:44Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42991
+                "stars": 42996
               }
             },
             {
@@ -2416,7 +2416,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32232
               }
             },
             {
@@ -2431,7 +2431,7 @@
                 "last_commit": "2023-05-15T02:13:28Z",
                 "owner": "Zhen-Dong",
                 "repo": "HAWQ",
-                "stars": 464
+                "stars": 463
               }
             },
             {
@@ -2443,7 +2443,7 @@
                 "archived": false,
                 "id": 437161212,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:58:09Z",
+                "last_commit": "2026-08-25T11:51:59Z",
                 "owner": "google",
                 "repo": "aqt",
                 "stars": 360
@@ -2461,7 +2461,7 @@
                 "last_commit": "2021-08-01T05:35:52Z",
                 "owner": "yhhhli",
                 "repo": "BRECQ",
-                "stars": 300
+                "stars": 301
               }
             },
             {
@@ -2783,7 +2783,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32232
               }
             },
             {
@@ -3714,7 +3714,7 @@
             "last_commit": "2025-03-27T09:13:02Z",
             "owner": "Zhen-Dong",
             "repo": "Awesome-Quantization-Papers",
-            "stars": 843
+            "stars": 844
           }
         },
         {
@@ -3737,7 +3737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:08.810Z",
+    "last_updated": "2026-08-25T18:56:13.327Z",
     "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
     "original_repository_id": 153568046,
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
