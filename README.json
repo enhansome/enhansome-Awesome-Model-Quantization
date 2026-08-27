@@ -57,7 +57,7 @@
             "last_commit": "2025-09-19T13:49:44Z",
             "owner": "AI-Efficiency",
             "repo": "Qwen3-Quantization-Toolkit",
-            "stars": 80
+            "stars": 81
           }
         }
       ],
@@ -101,7 +101,7 @@
                 "last_commit": "2026-08-07T13:41:49Z",
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1547
+                "stars": 1549
               }
             },
             {
@@ -362,21 +362,6 @@
             {
               "node_type": "item",
               "title": "[ICLR",
-              "description": "] Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 979361618,
-                "language": "Python",
-                "last_commit": "2026-02-11T10:22:36Z",
-                "owner": "ifnspaml",
-                "repo": "bof4",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "[ICLR",
               "description": "] Training Dynamics Impact Post-Training Quantization Robustness [code]",
               "children": [],
               "repo_info": {
@@ -386,6 +371,21 @@
                 "last_commit": "2025-11-14T17:42:57Z",
                 "owner": "aldakata",
                 "repo": "TrainingDynamicsQuantizationRobustness",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
+              "description": "] Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 979361618,
+                "language": "Python",
+                "last_commit": "2026-02-11T10:22:36Z",
+                "owner": "ifnspaml",
+                "repo": "bof4",
                 "stars": 3
               }
             },
@@ -423,7 +423,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3684
+                "stars": 3683
               }
             },
             {
@@ -543,7 +543,7 @@
                 "last_commit": "2024-08-09T17:28:53Z",
                 "owner": "Aaronhuang-778",
                 "repo": "SliM-LLM",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2025-11-20T20:34:33Z",
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 429
+                "stars": 430
               }
             },
             {
@@ -1439,10 +1439,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:45:41Z",
+                "last_commit": "2026-08-27T10:29:41Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43003
+                "stars": 43005
               }
             },
             {
@@ -1457,7 +1457,7 @@
                 "last_commit": "2024-06-10T19:20:16Z",
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10997
+                "stars": 10999
               }
             },
             {
@@ -1469,7 +1469,7 @@
                 "archived": false,
                 "id": 281528773,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:40:37Z",
+                "last_commit": "2026-08-27T04:12:21Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2704
@@ -1941,10 +1941,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:45:41Z",
+                "last_commit": "2026-08-27T10:29:41Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43003
+                "stars": 43005
               }
             },
             {
@@ -1956,10 +1956,10 @@
                 "archived": false,
                 "id": 373674258,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:48:25Z",
+                "last_commit": "2026-08-27T00:16:57Z",
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8439
+                "stars": 8441
               }
             },
             {
@@ -2798,7 +2798,7 @@
                 "last_commit": "2024-01-22T01:11:22Z",
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3165
+                "stars": 3166
               }
             },
             {
@@ -2813,7 +2813,7 @@
                 "last_commit": "2024-01-22T01:11:22Z",
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3165
+                "stars": 3166
               }
             },
             {
@@ -3737,9 +3737,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:01:45.746Z",
-    "original_repository": "AI-Efficiency/Awesome-Model-Quantization",
-    "original_repository_id": 153568046,
+    "last_updated": "2026-08-27T11:24:55.753Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 153568046,
+      "language": null,
+      "last_commit": "2026-07-10T15:45:57Z",
+      "owner": "AI-Efficiency",
+      "repo": "Awesome-Model-Quantization",
+      "stars": 2432
+    },
     "original_repository_sha": "c24490bfabb1cd28983cbdc71130b86786d2475b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Model-Quantization",
     "enhanced_repository_description": null,
