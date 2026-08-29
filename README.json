@@ -156,7 +156,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1557,
+                "stars": 1570,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -191,7 +191,7 @@
                 "open_issues": 10,
                 "owner": "NVlabs",
                 "repo": "QeRL",
-                "stars": 516,
+                "stars": 517,
                 "topics": [
                   "llms",
                   "quantization",
@@ -633,7 +633,7 @@
                 "open_issues": 207,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3684,
+                "stars": 3685,
                 "topics": [
                   "attention",
                   "cuda",
@@ -693,7 +693,7 @@
                 "open_issues": 13,
                 "owner": "OpenGVLab",
                 "repo": "EfficientQAT",
-                "stars": 347,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1571,7 +1571,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -2141,8 +2141,8 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:37:33Z",
-                "open_issues": 1329,
+                "last_commit": "2026-08-29T17:55:00Z",
+                "open_issues": 1340,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
                 "stars": 43019,
@@ -2180,7 +2180,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10999,
+                "stars": 11001,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2198,7 +2198,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T04:12:21Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2706,
@@ -2929,8 +2929,8 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:37:33Z",
-                "open_issues": 1329,
+                "last_commit": "2026-08-29T17:55:00Z",
+                "open_issues": 1340,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
                 "stars": 43019,
@@ -3113,6 +3113,27 @@
             },
             {
               "node_type": "item",
+              "title": "[ICLR",
+              "description": "] QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official PyTorch implementation of the ICLR2022 paper, QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization",
+                "homepage": null,
+                "id": 457373874,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-09-23T13:31:08Z",
+                "open_issues": 0,
+                "owner": "wimh966",
+                "repo": "QDrop",
+                "stars": 133,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
               "description": "] Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning [code]",
               "children": [],
@@ -3128,27 +3149,6 @@
                 "owner": "IST-DASLab",
                 "repo": "OBC",
                 "stars": 133,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[ICLR",
-              "description": "] QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official PyTorch implementation of the ICLR2022 paper, QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization",
-                "homepage": null,
-                "id": 457373874,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-09-23T13:31:08Z",
-                "open_issues": 0,
-                "owner": "wimh966",
-                "repo": "QDrop",
-                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5691,7 +5691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:25.323Z",
+    "last_updated": "2026-08-29T20:54:50.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
