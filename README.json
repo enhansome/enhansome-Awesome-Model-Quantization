@@ -156,7 +156,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1570,
+                "stars": 1582,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -630,10 +630,10 @@
                 "language": "Cuda",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-17T17:43:28Z",
-                "open_issues": 207,
+                "open_issues": 208,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3685,
+                "stars": 3691,
                 "topics": [
                   "attention",
                   "cuda",
@@ -854,6 +854,27 @@
             },
             {
               "node_type": "item",
+              "title": "[CVPR",
+              "description": "] PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 893687861,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-30T03:11:49Z",
+                "open_issues": 9,
+                "owner": "libozhu03",
+                "repo": "PassionSR",
+                "stars": 60,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICCV",
               "description": "] Scheduling Weight Transitions for Quantization-Aware Training [code]",
               "children": [],
@@ -869,27 +890,6 @@
                 "owner": "cvlab-yonsei",
                 "repo": "TRS",
                 "stars": 60,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[CVPR",
-              "description": "] PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 893687861,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-30T03:11:49Z",
-                "open_issues": 9,
-                "owner": "libozhu03",
-                "repo": "PassionSR",
-                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1550,7 +1550,7 @@
                 "open_issues": 194,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3623,
+                "stars": 3624,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1571,7 +1571,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -2141,11 +2141,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T17:55:00Z",
-                "open_issues": 1340,
+                "last_commit": "2026-08-30T16:25:59Z",
+                "open_issues": 1346,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43019,
+                "stars": 43028,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2180,7 +2180,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11001,
+                "stars": 11002,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2197,7 +2197,7 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T04:12:21Z",
+                "last_commit": "2026-08-30T03:21:42Z",
                 "open_issues": 24,
                 "owner": "intel",
                 "repo": "neural-compressor",
@@ -2929,11 +2929,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T17:55:00Z",
-                "open_issues": 1340,
+                "last_commit": "2026-08-30T16:25:59Z",
+                "open_issues": 1346,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43019,
+                "stars": 43028,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2965,10 +2965,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-27T00:16:57Z",
-                "open_issues": 68,
+                "open_issues": 70,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8446,
+                "stars": 8448,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -3649,7 +3649,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -4230,7 +4230,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -5638,7 +5638,7 @@
             "open_issues": 7,
             "owner": "Zhen-Dong",
             "repo": "Awesome-Quantization-Papers",
-            "stars": 845,
+            "stars": 848,
             "topics": [
               "awesome-list",
               "diffusion-models",
@@ -5691,7 +5691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:54:50.303Z",
+    "last_updated": "2026-08-30T21:04:11.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
