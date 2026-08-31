@@ -156,7 +156,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1582,
+                "stars": 1598,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -633,7 +633,7 @@
                 "open_issues": 208,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3691,
+                "stars": 3693,
                 "topics": [
                   "attention",
                   "cuda",
@@ -1225,6 +1225,27 @@
             },
             {
               "node_type": "item",
+              "title": "[NeurIPS",
+              "description": "] DartQuant: Efficient Rotational Distribution Calibration for LLM Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1064492277,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-11-11T07:27:59Z",
+                "open_issues": 0,
+                "owner": "CAS-CLab",
+                "repo": "DartQuant",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ACL",
               "description": "] PTQ1.61: Push the Real Limit of Extremely Low-Bit Post-Training Quantization Methods for Large Language Models [code]",
               "children": [],
@@ -1240,27 +1261,6 @@
                 "owner": "iLearn-Lab",
                 "repo": "ACL25-PTQ1.61",
                 "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[NeurIPS",
-              "description": "] DartQuant: Efficient Rotational Distribution Calibration for LLM Quantization [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1064492277,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-11-11T07:27:59Z",
-                "open_issues": 0,
-                "owner": "CAS-CLab",
-                "repo": "DartQuant",
-                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1547,10 +1547,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-17T19:44:51Z",
-                "open_issues": 194,
+                "open_issues": 198,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3624,
+                "stars": 3623,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1669,10 +1669,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-11-26T11:08:33Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "spcl",
                 "repo": "QuaRot",
-                "stars": 532,
+                "stars": 533,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1838,7 +1838,7 @@
                 "open_issues": 26,
                 "owner": "yuhuixu1993",
                 "repo": "qa-lora",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "language-model"
                 ]
@@ -2141,11 +2141,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T16:25:59Z",
-                "open_issues": 1346,
+                "last_commit": "2026-08-31T16:58:10Z",
+                "open_issues": 1351,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43028,
+                "stars": 43041,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2180,7 +2180,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11002,
+                "stars": 11001,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2197,8 +2197,8 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T03:21:42Z",
-                "open_issues": 24,
+                "last_commit": "2026-08-31T13:18:56Z",
+                "open_issues": 25,
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2706,
@@ -2261,7 +2261,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1679,
+                "stars": 1681,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2311,7 +2311,7 @@
                 "open_issues": 5,
                 "owner": "efeslab",
                 "repo": "Atom",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2929,11 +2929,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T16:25:59Z",
-                "open_issues": 1346,
+                "last_commit": "2026-08-31T16:58:10Z",
+                "open_issues": 1351,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43028,
+                "stars": 43041,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2968,7 +2968,7 @@
                 "open_issues": 70,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8448,
+                "stars": 8452,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -2995,7 +2995,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1679,
+                "stars": 1681,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -3649,7 +3649,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32230,
+                "stars": 32228,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -4230,7 +4230,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32230,
+                "stars": 32228,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -5691,7 +5691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:04:11.326Z",
+    "last_updated": "2026-08-31T22:49:42.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
