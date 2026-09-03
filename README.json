@@ -108,7 +108,7 @@
             "open_issues": 44,
             "owner": "ModelTC",
             "repo": "LightCompress",
-            "stars": 745,
+            "stars": 746,
             "topics": [
               "awq",
               "benchmark",
@@ -156,7 +156,7 @@
                 "open_issues": 67,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1624,
+                "stars": 1626,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -213,11 +213,11 @@
                 "id": 1196059417,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T06:40:52Z",
+                "last_commit": "2026-09-03T02:06:02Z",
                 "open_issues": 6,
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 426,
+                "stars": 423,
                 "topics": [
                   "llm",
                   "qep",
@@ -240,7 +240,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-19T18:20:36Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "z-lab",
                 "repo": "paroquant",
                 "stars": 339,
@@ -633,7 +633,7 @@
                 "open_issues": 209,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3699,
+                "stars": 3703,
                 "topics": [
                   "attention",
                   "cuda",
@@ -663,11 +663,11 @@
                 "id": 1196059417,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T06:40:52Z",
+                "last_commit": "2026-09-03T02:06:02Z",
                 "open_issues": 6,
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 426,
+                "stars": 423,
                 "topics": [
                   "llm",
                   "qep",
@@ -1007,6 +1007,27 @@
             },
             {
               "node_type": "item",
+              "title": "[ICCV",
+              "description": "] Task-Specific Zero-shot Quantization-Aware Training for Object Detection [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICCV 2025] Task-Specific Zero-shot Quantization-Aware Training for Object Detection",
+                "homepage": "https://dfq-dojo.github.io/dfq-toolkit-webpage/",
+                "id": 1012528592,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2025-09-26T15:18:52Z",
+                "open_issues": 4,
+                "owner": "DFQ-Dojo",
+                "repo": "dfq-toolkit",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICML",
               "description": "] MxMoE: Mixed-precision Quantization for MoE with Accuracy and Performance Co-Design [code]",
               "children": [],
@@ -1022,27 +1043,6 @@
                 "owner": "cat538",
                 "repo": "MxMoE",
                 "stars": 30,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[ICCV",
-              "description": "] Task-Specific Zero-shot Quantization-Aware Training for Object Detection [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICCV 2025] Task-Specific Zero-shot Quantization-Aware Training for Object Detection",
-                "homepage": "https://dfq-dojo.github.io/dfq-toolkit-webpage/",
-                "id": 1012528592,
-                "language": "Python",
-                "license": "AGPL-3.0",
-                "last_commit": "2025-09-26T15:18:52Z",
-                "open_issues": 4,
-                "owner": "DFQ-Dojo",
-                "repo": "dfq-toolkit",
-                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1571,7 +1571,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 913,
+                "stars": 915,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1596,7 +1596,7 @@
                 "open_issues": 21,
                 "owner": "SqueezeAILab",
                 "repo": "SqueezeLLM",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "efficient-inference",
                   "large-language-models",
@@ -2141,11 +2141,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T11:02:14Z",
-                "open_issues": 1347,
+                "last_commit": "2026-09-03T14:17:35Z",
+                "open_issues": 1351,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43057,
+                "stars": 43060,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2197,11 +2197,11 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T10:14:42Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-03T08:52:32Z",
+                "open_issues": 25,
                 "owner": "intel",
                 "repo": "neural-compressor",
-                "stars": 2706,
+                "stars": 2707,
                 "topics": [
                   "auto-tuning",
                   "awq",
@@ -2240,7 +2240,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2362,
+                "stars": 2363,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2929,11 +2929,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T11:02:14Z",
-                "open_issues": 1347,
+                "last_commit": "2026-09-03T14:17:35Z",
+                "open_issues": 1351,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43057,
+                "stars": 43060,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2964,11 +2964,11 @@
                 "id": 373674258,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-27T00:16:57Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-03T18:23:17Z",
+                "open_issues": 73,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8452,
+                "stars": 8454,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -5691,7 +5691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:02:15.711Z",
+    "last_updated": "2026-09-03T21:01:18.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
@@ -5703,7 +5703,7 @@
       "open_issues": 1,
       "owner": "AI-Efficiency",
       "repo": "Awesome-Model-Quantization",
-      "stars": 2433,
+      "stars": 2435,
       "topics": [
         "awesome",
         "binarized-neural-networks",
