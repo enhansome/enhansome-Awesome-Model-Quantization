@@ -108,7 +108,7 @@
             "open_issues": 44,
             "owner": "ModelTC",
             "repo": "LightCompress",
-            "stars": 746,
+            "stars": 747,
             "topics": [
               "awq",
               "benchmark",
@@ -156,7 +156,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1626,
+                "stars": 1627,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -630,7 +630,7 @@
                 "language": "Cuda",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-17T17:43:28Z",
-                "open_issues": 209,
+                "open_issues": 210,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
                 "stars": 3702,
@@ -693,7 +693,7 @@
                 "open_issues": 13,
                 "owner": "OpenGVLab",
                 "repo": "EfficientQAT",
-                "stars": 348,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1547,10 +1547,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-17T19:44:51Z",
-                "open_issues": 198,
+                "open_issues": 201,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3627,
+                "stars": 3629,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1571,7 +1571,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1722,7 +1722,7 @@
                 "open_issues": 0,
                 "owner": "gaoj0017",
                 "repo": "RaBitQ",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "high-dimensional-vectors",
                   "nearest-neighbor-search",
@@ -1838,7 +1838,7 @@
                 "open_issues": 26,
                 "owner": "yuhuixu1993",
                 "repo": "qa-lora",
-                "stars": 147,
+                "stars": 146,
                 "topics": [
                   "language-model"
                 ]
@@ -2141,8 +2141,8 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T01:01:05Z",
-                "open_issues": 1360,
+                "last_commit": "2026-09-05T09:30:18Z",
+                "open_issues": 1364,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
                 "stars": 43064,
@@ -2180,7 +2180,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11003,
+                "stars": 11005,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2197,7 +2197,7 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T15:06:25Z",
+                "last_commit": "2026-09-05T12:41:28Z",
                 "open_issues": 24,
                 "owner": "intel",
                 "repo": "neural-compressor",
@@ -2240,7 +2240,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2363,
+                "stars": 2364,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2261,7 +2261,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1681,
+                "stars": 1682,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2929,8 +2929,8 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T01:01:05Z",
-                "open_issues": 1360,
+                "last_commit": "2026-09-05T09:30:18Z",
+                "open_issues": 1364,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
                 "stars": 43064,
@@ -2965,10 +2965,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-03T18:23:17Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8457,
+                "stars": 8460,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -2995,7 +2995,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1681,
+                "stars": 1682,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4839,7 +4839,7 @@
                 "open_issues": 17,
                 "owner": "JDAI-CV",
                 "repo": "dabnn",
-                "stars": 773,
+                "stars": 774,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5638,7 +5638,7 @@
             "open_issues": 7,
             "owner": "Zhen-Dong",
             "repo": "Awesome-Quantization-Papers",
-            "stars": 850,
+            "stars": 851,
             "topics": [
               "awesome-list",
               "diffusion-models",
@@ -5691,7 +5691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:44:35.059Z",
+    "last_updated": "2026-09-05T20:19:14.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
