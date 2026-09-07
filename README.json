@@ -156,7 +156,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -213,8 +213,8 @@
                 "id": 1196059417,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T02:06:02Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-07T08:13:28Z",
+                "open_issues": 10,
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 423,
@@ -348,7 +348,7 @@
                 "open_issues": 0,
                 "owner": "thu-nics",
                 "repo": "PM-KVQ",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -524,6 +524,32 @@
             {
               "node_type": "item",
               "title": "[ICLR",
+              "description": "] Training Dynamics Impact Post-Training Quantization Robustness [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pytorch codebase to reproduce the eponymous paper. Quantization along training trajectories of LLMs up to 32B parameters reveals that quantization-induced degradation is tightly related to training dynamics such as sharpness of the loss landscape.",
+                "homepage": "https://arxiv.org/abs/2510.06213",
+                "id": 1072272478,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-11-14T17:42:57Z",
+                "open_issues": 0,
+                "owner": "aldakata",
+                "repo": "TrainingDynamicsQuantizationRobustness",
+                "stars": 5,
+                "topics": [
+                  "efficiency",
+                  "llms",
+                  "optimization",
+                  "quantization"
+                ]
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
               "description": "] SPR²Q: Static Priority-based Rectifier Routing Quantization for Image Super-Resolution [code]",
               "children": [],
               "repo_info": {
@@ -539,32 +565,6 @@
                 "repo": "SPR2Q",
                 "stars": 5,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[ICLR",
-              "description": "] Training Dynamics Impact Post-Training Quantization Robustness [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Pytorch codebase to reproduce the eponymous paper. Quantization along training trajectories of LLMs up to 32B parameters reveals that quantization-induced degradation is tightly related to training dynamics such as sharpness of the loss landscape.",
-                "homepage": "https://arxiv.org/abs/2510.06213",
-                "id": 1072272478,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-11-14T17:42:57Z",
-                "open_issues": 0,
-                "owner": "aldakata",
-                "repo": "TrainingDynamicsQuantizationRobustness",
-                "stars": 4,
-                "topics": [
-                  "efficiency",
-                  "llms",
-                  "optimization",
-                  "quantization"
-                ]
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
             },
@@ -630,10 +630,10 @@
                 "language": "Cuda",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-17T17:43:28Z",
-                "open_issues": 210,
+                "open_issues": 212,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3704,
+                "stars": 3709,
                 "topics": [
                   "attention",
                   "cuda",
@@ -663,8 +663,8 @@
                 "id": 1196059417,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T02:06:02Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-07T08:13:28Z",
+                "open_issues": 10,
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 423,
@@ -1571,7 +1571,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 919,
+                "stars": 920,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1693,7 +1693,7 @@
                 "open_issues": 7,
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "inference",
                   "large-language-models",
@@ -1722,7 +1722,7 @@
                 "open_issues": 0,
                 "owner": "gaoj0017",
                 "repo": "RaBitQ",
-                "stars": 254,
+                "stars": 256,
                 "topics": [
                   "high-dimensional-vectors",
                   "nearest-neighbor-search",
@@ -2141,11 +2141,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T20:09:26Z",
-                "open_issues": 1384,
+                "last_commit": "2026-09-07T13:38:06Z",
+                "open_issues": 1385,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43065,
+                "stars": 43071,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2180,7 +2180,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11007,
+                "stars": 11009,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2197,8 +2197,8 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T12:41:28Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-07T13:21:43Z",
+                "open_issues": 28,
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2707,
@@ -2240,7 +2240,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2364,
+                "stars": 2366,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2395,7 +2395,7 @@
                 "open_issues": 3,
                 "owner": "haochengxi",
                 "repo": "Train_Transformers_with_INT4",
-                "stars": 157,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2929,11 +2929,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T20:09:26Z",
-                "open_issues": 1384,
+                "last_commit": "2026-09-07T13:38:06Z",
+                "open_issues": 1385,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43065,
+                "stars": 43071,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -2964,11 +2964,11 @@
                 "id": 373674258,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T18:23:17Z",
-                "open_issues": 76,
+                "last_commit": "2026-09-07T14:36:23Z",
+                "open_issues": 77,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8462,
+                "stars": 8464,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -3037,7 +3037,7 @@
                 "open_issues": 11,
                 "owner": "megvii-research",
                 "repo": "FQ-ViT",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "imagenet",
                   "post-training-quantization",
@@ -3649,7 +3649,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -4230,7 +4230,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -5108,7 +5108,7 @@
                 "open_issues": 2,
                 "owner": "antspy",
                 "repo": "quantized_distillation",
-                "stars": 336,
+                "stars": 335,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5691,7 +5691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:22:58.803Z",
+    "last_updated": "2026-09-07T21:30:09.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
