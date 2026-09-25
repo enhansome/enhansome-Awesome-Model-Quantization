@@ -167,7 +167,7 @@
                 "open_issues": 93,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8499,
+                "stars": 8500,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -194,7 +194,7 @@
                 "open_issues": 201,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3639,
+                "stars": 3641,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -257,7 +257,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -428,7 +428,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11020,
+                "stars": 11021,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -794,7 +794,7 @@
                 "open_issues": 0,
                 "owner": "gaoj0017",
                 "repo": "RaBitQ",
-                "stars": 257,
+                "stars": 256,
                 "topics": [
                   "high-dimensional-vectors",
                   "nearest-neighbor-search",
@@ -910,7 +910,7 @@
                 "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "compression",
                   "efficient-inference",
@@ -947,7 +947,7 @@
                 "open_issues": 7,
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "inference",
                   "large-language-models",
@@ -1056,7 +1056,7 @@
                 "open_issues": 24,
                 "owner": "Xiuyu-Li",
                 "repo": "q-diffusion",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "ddim",
                   "diffusion-models",
@@ -1289,8 +1289,8 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T17:46:34Z",
-                "open_issues": 109,
+                "last_commit": "2026-09-25T16:30:28Z",
+                "open_issues": 108,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1074,
@@ -1466,7 +1466,7 @@
                 "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "microxcaling",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -1515,7 +1515,7 @@
                 "open_issues": 93,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8499,
+                "stars": 8500,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -1754,8 +1754,8 @@
                 "id": 1013493454,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T10:39:09Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-25T07:42:53Z",
+                "open_issues": 67,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
                 "stars": 1666,
@@ -1819,7 +1819,7 @@
                 "open_issues": 8,
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 432,
+                "stars": 435,
                 "topics": [
                   "llm",
                   "qep",
@@ -1950,7 +1950,7 @@
                 "open_issues": 0,
                 "owner": "lwy2020",
                 "repo": "MicroMix",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2274,10 +2274,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 330,
+                "open_issues": 329,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40346,
+                "stars": 40349,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -2329,7 +2329,7 @@
                 "open_issues": 212,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3943,
+                "stars": 3947,
                 "topics": [
                   "attention",
                   "cuda",
@@ -2370,6 +2370,32 @@
             },
             {
               "node_type": "item",
+              "title": "[NeurIPS",
+              "description": "] Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization [Code] [arXiv]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python package for LLM compression",
+                "homepage": "https://fujitsuresearch.github.io/OneCompression/",
+                "id": 1196059417,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-24T14:07:39Z",
+                "open_issues": 8,
+                "owner": "FujitsuResearch",
+                "repo": "OneCompression",
+                "stars": 435,
+                "topics": [
+                  "llm",
+                  "qep",
+                  "quantization",
+                  "vllm"
+                ]
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
               "description": "] SpinQuant: LLM Quantization with Learned Rotations [code]",
               "children": [],
@@ -2388,32 +2414,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[NeurIPS",
-              "description": "] Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization [Code] [arXiv]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Python package for LLM compression",
-                "homepage": "https://fujitsuresearch.github.io/OneCompression/",
-                "id": 1196059417,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-24T14:07:39Z",
-                "open_issues": 8,
-                "owner": "FujitsuResearch",
-                "repo": "OneCompression",
-                "stars": 432,
-                "topics": [
-                  "llm",
-                  "qep",
-                  "quantization",
-                  "vllm"
-                ]
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
             },
             {
               "node_type": "item",
@@ -2541,7 +2541,7 @@
                 "open_issues": 1,
                 "owner": "VectorDB-NTU",
                 "repo": "Extended-RaBitQ",
-                "stars": 73,
+                "stars": 72,
                 "topics": [
                   "nearest-neighbor-search",
                   "quantization",
@@ -3314,7 +3314,7 @@
                 "open_issues": 201,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3639,
+                "stars": 3641,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -3377,7 +3377,7 @@
                 "open_issues": 33,
                 "owner": "OpenGVLab",
                 "repo": "OmniQuant",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -3520,7 +3520,7 @@
                 "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "compression",
                   "efficient-inference",
@@ -3557,7 +3557,7 @@
                 "open_issues": 7,
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "inference",
                   "large-language-models",
@@ -3628,7 +3628,7 @@
                 "open_issues": 0,
                 "owner": "gaoj0017",
                 "repo": "RaBitQ",
-                "stars": 257,
+                "stars": 256,
                 "topics": [
                   "high-dimensional-vectors",
                   "nearest-neighbor-search",
@@ -4131,11 +4131,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T20:37:25Z",
-                "open_issues": 1468,
+                "last_commit": "2026-09-25T18:44:12Z",
+                "open_issues": 1474,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43158,
+                "stars": 43160,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -4170,7 +4170,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11020,
+                "stars": 11021,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4187,11 +4187,11 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T14:39:06Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-25T10:32:16Z",
+                "open_issues": 26,
                 "owner": "intel",
                 "repo": "neural-compressor",
-                "stars": 2712,
+                "stars": 2713,
                 "topics": [
                   "auto-tuning",
                   "awq",
@@ -4272,7 +4272,7 @@
                 "open_issues": 24,
                 "owner": "Xiuyu-Li",
                 "repo": "q-diffusion",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "ddim",
                   "diffusion-models",
@@ -4301,7 +4301,7 @@
                 "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "microxcaling",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -4940,11 +4940,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T20:37:25Z",
-                "open_issues": 1468,
+                "last_commit": "2026-09-25T18:44:12Z",
+                "open_issues": 1474,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43158,
+                "stars": 43160,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -4979,7 +4979,7 @@
                 "open_issues": 93,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8499,
+                "stars": 8500,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -5006,13 +5006,40 @@
                 "open_issues": 93,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8499,
+                "stars": 8500,
                 "topics": [
                   "llm",
                   "machine-learning",
                   "pytorch",
                   "qlora",
                   "quantization"
+                ]
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[IJCAI",
+              "description": "] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer",
+                "homepage": null,
+                "id": 431476132,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2023-04-11T06:18:11Z",
+                "open_issues": 11,
+                "owner": "megvii-research",
+                "repo": "FQ-ViT",
+                "stars": 363,
+                "topics": [
+                  "imagenet",
+                  "post-training-quantization",
+                  "pytorch",
+                  "quantization",
+                  "vision-transformer"
                 ]
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5035,33 +5062,6 @@
                 "repo": "aqt",
                 "stars": 362,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[IJCAI",
-              "description": "] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer",
-                "homepage": null,
-                "id": 431476132,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2023-04-11T06:18:11Z",
-                "open_issues": 11,
-                "owner": "megvii-research",
-                "repo": "FQ-ViT",
-                "stars": 362,
-                "topics": [
-                  "imagenet",
-                  "post-training-quantization",
-                  "pytorch",
-                  "quantization",
-                  "vision-transformer"
-                ]
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
             },
@@ -5645,7 +5645,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -7264,8 +7264,8 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T17:46:34Z",
-                "open_issues": 109,
+                "last_commit": "2026-09-25T16:30:28Z",
+                "open_issues": 108,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1074,
@@ -7613,8 +7613,8 @@
                 "id": 714073518,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T14:38:19Z",
-                "open_issues": 794,
+                "last_commit": "2026-09-25T21:21:47Z",
+                "open_issues": 790,
                 "owner": "pytorch",
                 "repo": "ao",
                 "stars": 2986,
@@ -7651,7 +7651,7 @@
                 "open_issues": 93,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8499,
+                "stars": 8500,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -7669,16 +7669,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+                "description": "State-of-the-art LLM compression, built for production inference with vLLM",
                 "homepage": "https://docs.vllm.ai/projects/llm-compressor",
                 "id": 817962136,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T20:05:51Z",
-                "open_issues": 108,
+                "last_commit": "2026-09-25T20:32:21Z",
+                "open_issues": 110,
                 "owner": "vllm-project",
                 "repo": "llm-compressor",
-                "stars": 3817,
+                "stars": 3822,
                 "topics": [
                   "compression",
                   "quantization"
@@ -7698,11 +7698,11 @@
                 "id": 790916393,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T20:07:19Z",
-                "open_issues": 417,
+                "last_commit": "2026-09-25T21:06:27Z",
+                "open_issues": 418,
                 "owner": "NVIDIA",
                 "repo": "Model-Optimizer",
-                "stars": 4035,
+                "stars": 4435,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -7784,7 +7784,7 @@
                 "id": 257688216,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T19:13:00Z",
+                "last_commit": "2026-09-25T17:04:37Z",
                 "open_issues": 28,
                 "owner": "qualcomm",
                 "repo": "aimet",
@@ -7821,7 +7821,7 @@
                 "open_issues": 235,
                 "owner": "Xilinx",
                 "repo": "brevitas",
-                "stars": 1579,
+                "stars": 1580,
                 "topics": [
                   "brevitas",
                   "deep-learning",
@@ -7856,11 +7856,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-24T21:13:03Z",
-                "open_issues": 2533,
+                "last_commit": "2026-09-25T21:07:49Z",
+                "open_issues": 2540,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 129440,
+                "stars": 129512,
                 "topics": [
                   "ggml"
                 ]
@@ -7879,11 +7879,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T20:36:36Z",
-                "open_issues": 8410,
+                "last_commit": "2026-09-25T21:08:55Z",
+                "open_issues": 8430,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 92639,
+                "stars": 92680,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -7922,10 +7922,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T20:26:23Z",
-                "open_issues": 1506,
+                "open_issues": 1511,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14712,
+                "stars": 14714,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -7948,11 +7948,11 @@
                 "id": 539057023,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T04:52:39Z",
+                "last_commit": "2026-09-25T21:19:29Z",
                 "open_issues": 357,
                 "owner": "NVIDIA",
                 "repo": "TransformerEngine",
-                "stars": 3553,
+                "stars": 3556,
                 "topics": [
                   "cuda",
                   "deep-learning",
@@ -8011,10 +8011,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 330,
+                "open_issues": 329,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40346,
+                "stars": 40349,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -8031,8 +8031,8 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T17:46:34Z",
-                "open_issues": 109,
+                "last_commit": "2026-09-25T16:30:28Z",
+                "open_issues": 108,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1074,
@@ -8059,10 +8059,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T13:58:45Z",
-                "open_issues": 1208,
+                "open_issues": 1209,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23869,
+                "stars": 23871,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -8149,7 +8149,7 @@
                 "open_issues": 7,
                 "owner": "Zhen-Dong",
                 "repo": "Awesome-Quantization-Papers",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "awesome-list",
                   "diffusion-models",
@@ -8174,7 +8174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:29:48.995Z",
+    "last_updated": "2026-09-25T21:33:50.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and efficient deployment.",
@@ -8186,7 +8186,7 @@
       "open_issues": 0,
       "owner": "AI-Efficiency",
       "repo": "Awesome-Model-Quantization",
-      "stars": 2449,
+      "stars": 2450,
       "topics": [
         "awesome",
         "awesome-list",
