@@ -164,7 +164,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
                 "stars": 8514,
@@ -215,7 +215,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2381,
+                "stars": 2383,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -236,7 +236,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -358,7 +358,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "SpinQuant",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -379,7 +379,7 @@
                 "open_issues": 13,
                 "owner": "OpenGVLab",
                 "repo": "EfficientQAT",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -428,7 +428,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11035,
+                "stars": 11036,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1289,8 +1289,8 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-07T12:27:20Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-08T09:57:14Z",
+                "open_issues": 112,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1078,
@@ -1388,7 +1388,7 @@
                 "open_issues": 19,
                 "owner": "hahnyuan",
                 "repo": "PTQ4ViT",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1512,7 +1512,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
                 "stars": 8514,
@@ -1597,7 +1597,7 @@
             "open_issues": 17,
             "owner": "ModelTC",
             "repo": "MQBench",
-            "stars": 882,
+            "stars": 883,
             "topics": []
           },
           "first_seen": "2026-09-11T20:56:53.740Z"
@@ -1755,10 +1755,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T06:58:46Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1746,
+                "stars": 1752,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -1789,7 +1789,7 @@
                 "id": 1243403407,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T10:32:53Z",
+                "last_commit": "2026-10-08T15:47:00Z",
                 "open_issues": 12,
                 "owner": "FutureMLS-Lab",
                 "repo": "OSCAR",
@@ -1814,7 +1814,7 @@
                 "open_issues": 10,
                 "owner": "NVlabs",
                 "repo": "QeRL",
-                "stars": 522,
+                "stars": 523,
                 "topics": [
                   "llms",
                   "quantization",
@@ -2403,7 +2403,7 @@
                 "open_issues": 335,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40367,
+                "stars": 40373,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -2424,7 +2424,7 @@
                 "open_issues": 213,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3961,
+                "stars": 3963,
                 "topics": [
                   "attention",
                   "cuda",
@@ -2496,6 +2496,27 @@
             },
             {
               "node_type": "item",
+              "title": "[ICLR",
+              "description": "] SpinQuant: LLM Quantization with Learned Rotations [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code repo for the paper \"SpinQuant LLM quantization with learned rotations\"",
+                "homepage": null,
+                "id": 825883635,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-02-14T22:31:19Z",
+                "open_issues": 31,
+                "owner": "facebookresearch",
+                "repo": "SpinQuant",
+                "stars": 434,
+                "topics": []
+              },
+              "first_seen": "2026-09-11T20:56:53.740Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
               "description": "] Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization [Code] [arXiv]",
               "children": [],
@@ -2522,27 +2543,6 @@
             },
             {
               "node_type": "item",
-              "title": "[ICLR",
-              "description": "] SpinQuant: LLM Quantization with Learned Rotations [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code repo for the paper \"SpinQuant LLM quantization with learned rotations\"",
-                "homepage": null,
-                "id": 825883635,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2025-02-14T22:31:19Z",
-                "open_issues": 31,
-                "owner": "facebookresearch",
-                "repo": "SpinQuant",
-                "stars": 433,
-                "topics": []
-              },
-              "first_seen": "2026-09-11T20:56:53.740Z"
-            },
-            {
-              "node_type": "item",
               "title": "[ACL",
               "description": "] EfficientQAT: Efficient Quantization-Aware Training for Large Language Models [code]",
               "children": [],
@@ -2557,7 +2557,7 @@
                 "open_issues": 13,
                 "owner": "OpenGVLab",
                 "repo": "EfficientQAT",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2611,27 +2611,6 @@
             },
             {
               "node_type": "item",
-              "title": "[ICLR",
-              "description": "] OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR2025]: OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting ",
-                "homepage": null,
-                "id": 888363396,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-04-08T13:40:13Z",
-                "open_issues": 16,
-                "owner": "BrotherHappy",
-                "repo": "OSTQuant",
-                "stars": 96,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
               "title": "[ICML",
               "description": "] GPTAQ: Efficient Finetuning-Free Quantization with Asymmetric Calibration [code]",
               "children": [],
@@ -2646,6 +2625,27 @@
                 "open_issues": 1,
                 "owner": "Intelligent-Computing-Lab-Panda",
                 "repo": "GPTAQ",
+                "stars": 97,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
+              "description": "] OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR2025]: OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting ",
+                "homepage": null,
+                "id": 888363396,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-04-08T13:40:13Z",
+                "open_issues": 16,
+                "owner": "BrotherHappy",
+                "repo": "OSTQuant",
                 "stars": 96,
                 "topics": []
               },
@@ -4278,11 +4278,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:33:57Z",
-                "open_issues": 1516,
+                "last_commit": "2026-10-08T22:10:51Z",
+                "open_issues": 1521,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43206,
+                "stars": 43209,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -4317,7 +4317,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11035,
+                "stars": 11036,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4334,8 +4334,8 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T09:32:46Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-08T13:39:24Z",
+                "open_issues": 28,
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2713,
@@ -4377,7 +4377,7 @@
                 "open_issues": 27,
                 "owner": "IST-DASLab",
                 "repo": "gptq",
-                "stars": 2381,
+                "stars": 2383,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4398,7 +4398,7 @@
                 "open_issues": 72,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5087,11 +5087,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:33:57Z",
-                "open_issues": 1516,
+                "last_commit": "2026-10-08T22:10:51Z",
+                "open_issues": 1521,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43206,
+                "stars": 43209,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -5123,7 +5123,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
                 "stars": 8514,
@@ -5150,7 +5150,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
                 "stars": 8514,
@@ -5203,8 +5203,8 @@
                 "id": 437161212,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:53:17Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-08T01:34:11Z",
+                "open_issues": 80,
                 "owner": "google",
                 "repo": "aqt",
                 "stars": 362,
@@ -5228,7 +5228,7 @@
                 "open_issues": 19,
                 "owner": "hahnyuan",
                 "repo": "PTQ4ViT",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5792,7 +5792,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -5817,7 +5817,7 @@
                 "open_issues": 17,
                 "owner": "ModelTC",
                 "repo": "MQBench",
-                "stars": 882,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -7411,8 +7411,8 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-07T12:27:20Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-08T09:57:14Z",
+                "open_issues": 112,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1078,
@@ -7760,11 +7760,11 @@
                 "id": 714073518,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T18:44:34Z",
-                "open_issues": 799,
+                "last_commit": "2026-10-08T18:02:59Z",
+                "open_issues": 810,
                 "owner": "pytorch",
                 "repo": "ao",
-                "stars": 2993,
+                "stars": 2995,
                 "topics": [
                   "brrr",
                   "cuda",
@@ -7795,7 +7795,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
                 "stars": 8514,
@@ -7821,11 +7821,11 @@
                 "id": 817962136,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T20:43:42Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-08T18:44:41Z",
+                "open_issues": 104,
                 "owner": "vllm-project",
                 "repo": "llm-compressor",
-                "stars": 3855,
+                "stars": 3859,
                 "topics": [
                   "compression",
                   "quantization"
@@ -7845,11 +7845,11 @@
                 "id": 790916393,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:59:03Z",
-                "open_issues": 464,
+                "last_commit": "2026-10-08T23:02:19Z",
+                "open_issues": 474,
                 "owner": "NVIDIA",
                 "repo": "Model-Optimizer",
-                "stars": 5237,
+                "stars": 5245,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -7931,7 +7931,7 @@
                 "id": 257688216,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T23:00:08Z",
+                "last_commit": "2026-10-08T18:50:28Z",
                 "open_issues": 29,
                 "owner": "qualcomm",
                 "repo": "aimet",
@@ -7968,7 +7968,7 @@
                 "open_issues": 238,
                 "owner": "Xilinx",
                 "repo": "brevitas",
-                "stars": 1584,
+                "stars": 1585,
                 "topics": [
                   "brevitas",
                   "deep-learning",
@@ -8003,11 +8003,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-07T22:32:09Z",
-                "open_issues": 2498,
+                "last_commit": "2026-10-08T23:14:09Z",
+                "open_issues": 2494,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 130612,
+                "stars": 130542,
                 "topics": [
                   "ggml"
                 ]
@@ -8026,11 +8026,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:44:18Z",
-                "open_issues": 8567,
+                "last_commit": "2026-10-08T22:22:21Z",
+                "open_issues": 8630,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 93345,
+                "stars": 93408,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -8068,8 +8068,8 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T22:12:00Z",
-                "open_issues": 1584,
+                "last_commit": "2026-10-08T22:16:15Z",
+                "open_issues": 1587,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
                 "stars": 14776,
@@ -8095,11 +8095,11 @@
                 "id": 539057023,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T18:45:04Z",
-                "open_issues": 361,
+                "last_commit": "2026-10-08T21:24:38Z",
+                "open_issues": 363,
                 "owner": "NVIDIA",
                 "repo": "TransformerEngine",
-                "stars": 3569,
+                "stars": 3571,
                 "topics": [
                   "cuda",
                   "deep-learning",
@@ -8161,7 +8161,7 @@
                 "open_issues": 335,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 40367,
+                "stars": 40373,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -8178,8 +8178,8 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-07T12:27:20Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-08T09:57:14Z",
+                "open_issues": 112,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1078,
@@ -8205,11 +8205,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T15:21:38Z",
-                "open_issues": 1219,
+                "last_commit": "2026-10-08T13:21:18Z",
+                "open_issues": 1229,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23916,
+                "stars": 23923,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -8321,7 +8321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:04:18.737Z",
+    "last_updated": "2026-10-08T23:19:58.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and efficient deployment.",
@@ -8333,7 +8333,7 @@
       "open_issues": 0,
       "owner": "AI-Efficiency",
       "repo": "Awesome-Model-Quantization",
-      "stars": 2452,
+      "stars": 2453,
       "topics": [
         "awesome",
         "awesome-list",
