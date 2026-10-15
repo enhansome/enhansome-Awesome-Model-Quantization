@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Selected works grouped by technical approach, with authors and short method summaries. Each paper has one primary home here; the yearly collection includes the wider literature.\nReading the links: Scholar opens a title search on Google Scholar, where citation counts can be viewed. Star badges show the linked GitHub repository’s stars, which may cover several papers. These are discovery aids, not rankings.",
+      "description": "Selected works grouped by technical approach. Click a category to expand its papers, authors and method summaries. Each paper has one primary home here; the yearly collection includes the wider literature.\nReading the links: Scholar opens a title search on Google Scholar, where citation counts can be viewed. Star badges show the linked GitHub repository’s stars, which may cover several papers. These are discovery aids, not rankings.",
       "items": [
         {
           "children": [
@@ -63,7 +63,7 @@
                 "open_issues": 28,
                 "owner": "yhhhli",
                 "repo": "BRECQ",
-                "stars": 304,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -92,7 +92,7 @@
           ],
           "description": "From binary weights and learned codebooks to integer arithmetic, learned quantizers and reconstruction-based PTQ.",
           "node_type": "group",
-          "title": "Classical Quantization and QAT"
+          "title": "Classical Quantization and QAT · 11 papers"
         },
         {
           "children": [
@@ -147,7 +147,7 @@
           ],
           "description": "These methods replace access to the original dataset with model statistics or generated samples; they may still require calibration or optimization.",
           "node_type": "group",
-          "title": "Data-Free and Zero-Shot Quantization"
+          "title": "Data-Free and Zero-Shot Quantization · 5 papers"
         },
         {
           "children": [
@@ -164,10 +164,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8527,
+                "stars": 8526,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -358,7 +358,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "SpinQuant",
-                "stars": 437,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -408,7 +408,7 @@
           ],
           "description": "Weight-only compression, weight–activation quantization and QAT address different deployment needs. Sparse outlier handling and rotations offer complementary ways to control error.",
           "node_type": "group",
-          "title": "Transformer and LLM Quantization"
+          "title": "Transformer and LLM Quantization · 11 papers"
         },
         {
           "children": [
@@ -522,7 +522,7 @@
           ],
           "description": "QLoRA and related methods adapt low-bit bases with low-rank updates; PV-Tuning also optimizes discrete compressed representations.",
           "node_type": "group",
-          "title": "Quantized Fine-Tuning"
+          "title": "Quantized Fine-Tuning · 6 papers"
         },
         {
           "children": [
@@ -682,7 +682,7 @@
                 "open_issues": 0,
                 "owner": "XIANGLONGYAN",
                 "repo": "PT2-LLM",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -711,7 +711,7 @@
           ],
           "description": "Binary CNNs and transformers, post-training binarization, and native ternary pretraining have different training costs and arithmetic requirements.",
           "node_type": "group",
-          "title": "Extreme Low-Bit, Binary and Ternary"
+          "title": "Extreme Low-Bit, Binary and Ternary · 10 papers"
         },
         {
           "children": [
@@ -890,7 +890,7 @@
           ],
           "description": "From CNN product quantization to LLM additive, lattice and trellis codes. QuIP provides the incoherence-processing precursor; RaBitQ contributes vector-search methodology.",
           "node_type": "group",
-          "title": "Vector, Lattice and Codebook Quantization"
+          "title": "Vector, Lattice and Codebook Quantization · 12 papers"
         },
         {
           "children": [
@@ -1005,7 +1005,7 @@
           ],
           "description": "These methods compress inference-time key and value tensors; their bit widths are separate from model weight precision.",
           "node_type": "group",
-          "title": "KV Cache Quantization"
+          "title": "KV Cache Quantization · 4 papers"
         },
         {
           "children": [
@@ -1022,7 +1022,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T23:07:26Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
                 "stars": 3960,
@@ -1224,7 +1224,7 @@
           ],
           "description": "Early diffusion PTQ addresses denoising-step sensitivity; later work extends to diffusion transformers, low-rank outlier handling and video generation.",
           "node_type": "group",
-          "title": "Diffusion and Generative Model Quantization"
+          "title": "Diffusion and Generative Model Quantization · 9 papers"
         },
         {
           "children": [
@@ -1273,7 +1273,7 @@
           ],
           "description": "Vision-language models and selective state space models introduce quantization sensitivities beyond those of language-only transformers.",
           "node_type": "group",
-          "title": "Multimodal and State Space Models"
+          "title": "Multimodal and State Space Models · 2 papers"
         },
         {
           "children": [
@@ -1289,11 +1289,11 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-14T15:23:31Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-15T16:27:20Z",
+                "open_issues": 108,
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": [
                   "compiler",
                   "dataflow",
@@ -1446,7 +1446,7 @@
           ],
           "description": "Vision methods and deployment systems connect quantizer design to integer kernels, memory movement and hardware costs.",
           "node_type": "group",
-          "title": "Vision, Edge and Hardware"
+          "title": "Vision, Edge and Hardware · 8 papers"
         },
         {
           "children": [
@@ -1495,7 +1495,7 @@
           ],
           "description": "Low-bit floating-point and shared-scale formats complement integer quantization. Format design and model calibration are separate choices.",
           "node_type": "group",
-          "title": "Floating-Point and Microscaling Formats"
+          "title": "Floating-Point and Microscaling Formats · 3 papers"
         },
         {
           "children": [
@@ -1512,10 +1512,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8527,
+                "stars": 8526,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -1573,7 +1573,7 @@
           ],
           "description": "Quantization can reduce saved activations, optimizer states, gradient communication or training arithmetic; each targets a different part of the training cost.",
           "node_type": "group",
-          "title": "Low-Precision Training and States"
+          "title": "Low-Precision Training and States · 5 papers"
         }
       ],
       "title": "Representative Works"
@@ -1758,7 +1758,7 @@
                 "open_issues": 68,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1759,
+                "stars": 1761,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -1836,11 +1836,11 @@
                 "id": 1196059417,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T04:53:57Z",
+                "last_commit": "2026-10-15T13:32:45Z",
                 "open_issues": 8,
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "llm",
                   "qep",
@@ -2042,6 +2042,27 @@
             {
               "node_type": "item",
               "title": "[ICLR",
+              "description": "] PT²-LLM: Post-Training Ternarization for Large Language Models [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1065056486,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-09T12:49:18Z",
+                "open_issues": 0,
+                "owner": "XIANGLONGYAN",
+                "repo": "PT2-LLM",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
               "description": "] PTQ4ARVG: Post-Training Quantization for AutoRegressive Visual Generation Models [code]",
               "children": [],
               "repo_info": {
@@ -2056,27 +2077,6 @@
                 "owner": "BienLuky",
                 "repo": "PTQ4ARVG",
                 "stars": 17,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[ICLR",
-              "description": "] PT²-LLM: Post-Training Ternarization for Large Language Models [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1065056486,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-09T12:49:18Z",
-                "open_issues": 0,
-                "owner": "XIANGLONGYAN",
-                "repo": "PT2-LLM",
-                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -2424,7 +2424,7 @@
                 "open_issues": 373,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41157,
+                "stars": 41171,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -2445,7 +2445,7 @@
                 "open_issues": 213,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3968,
+                "stars": 3970,
                 "topics": [
                   "attention",
                   "cuda",
@@ -2476,7 +2476,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T23:07:26Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
                 "stars": 3960,
@@ -2531,7 +2531,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "SpinQuant",
-                "stars": 437,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -2548,11 +2548,11 @@
                 "id": 1196059417,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T04:53:57Z",
+                "last_commit": "2026-10-15T13:32:45Z",
                 "open_issues": 8,
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "llm",
                   "qep",
@@ -4299,11 +4299,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T18:01:16Z",
-                "open_issues": 1526,
+                "last_commit": "2026-10-15T18:23:15Z",
+                "open_issues": 1528,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43230,
+                "stars": 43231,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -4355,8 +4355,8 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T09:46:29Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-15T02:19:13Z",
+                "open_issues": 33,
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2712,
@@ -5108,11 +5108,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T18:01:16Z",
-                "open_issues": 1526,
+                "last_commit": "2026-10-15T18:23:15Z",
+                "open_issues": 1528,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43230,
+                "stars": 43231,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -5144,10 +5144,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8527,
+                "stars": 8526,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -5171,10 +5171,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8527,
+                "stars": 8526,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -5224,7 +5224,7 @@
                 "id": 437161212,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T20:32:49Z",
+                "last_commit": "2026-10-14T23:01:41Z",
                 "open_issues": 78,
                 "owner": "google",
                 "repo": "aqt",
@@ -5813,7 +5813,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32214,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -5894,7 +5894,7 @@
                 "open_issues": 28,
                 "owner": "yhhhli",
                 "repo": "BRECQ",
-                "stars": 304,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5976,27 +5976,6 @@
             },
             {
               "node_type": "item",
-              "title": "[ICLR",
-              "description": "] Improving Post Training Neural Quantization: Layer-wise Calibration and Integer Programming [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Improving Post Training Neural Quantization: Layer-wise Calibration and Integer Programming",
-                "homepage": null,
-                "id": 271555991,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2021-06-10T13:20:51Z",
-                "open_issues": 8,
-                "owner": "itayhubara",
-                "repo": "CalibTIP",
-                "stars": 98,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
               "title": "[CVPR",
               "description": "] Network Quantization with Element-wise Gradient Scaling [code]",
               "children": [],
@@ -6011,6 +5990,27 @@
                 "open_issues": 7,
                 "owner": "cvlab-yonsei",
                 "repo": "EWGS",
+                "stars": 97,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
+              "description": "] Improving Post Training Neural Quantization: Layer-wise Calibration and Integer Programming [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Improving Post Training Neural Quantization: Layer-wise Calibration and Integer Programming",
+                "homepage": null,
+                "id": 271555991,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2021-06-10T13:20:51Z",
+                "open_issues": 8,
+                "owner": "itayhubara",
+                "repo": "CalibTIP",
                 "stars": 97,
                 "topics": []
               },
@@ -7083,7 +7083,7 @@
                 "open_issues": 7,
                 "owner": "aliyun",
                 "repo": "alibabacloud-quantization-networks",
-                "stars": 120,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -7432,11 +7432,11 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-14T15:23:31Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-15T16:27:20Z",
+                "open_issues": 108,
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": [
                   "compiler",
                   "dataflow",
@@ -7781,11 +7781,11 @@
                 "id": 714073518,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T19:02:43Z",
+                "last_commit": "2026-10-15T19:36:05Z",
                 "open_issues": 811,
                 "owner": "pytorch",
                 "repo": "ao",
-                "stars": 3003,
+                "stars": 3005,
                 "topics": [
                   "brrr",
                   "cuda",
@@ -7816,10 +7816,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-07T14:36:23Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8527,
+                "stars": 8526,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -7842,11 +7842,11 @@
                 "id": 817962136,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T20:48:34Z",
-                "open_issues": 103,
+                "last_commit": "2026-10-15T21:16:34Z",
+                "open_issues": 108,
                 "owner": "vllm-project",
                 "repo": "llm-compressor",
-                "stars": 3877,
+                "stars": 3878,
                 "topics": [
                   "compression",
                   "quantization"
@@ -7866,11 +7866,11 @@
                 "id": 790916393,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:39:44Z",
-                "open_issues": 498,
+                "last_commit": "2026-10-15T21:07:33Z",
+                "open_issues": 492,
                 "owner": "NVIDIA",
                 "repo": "Model-Optimizer",
-                "stars": 5312,
+                "stars": 5327,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -7952,11 +7952,11 @@
                 "id": 257688216,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T20:18:36Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-15T20:58:16Z",
+                "open_issues": 36,
                 "owner": "qualcomm",
                 "repo": "aimet",
-                "stars": 2728,
+                "stars": 2727,
                 "topics": [
                   "auto-ml",
                   "compression",
@@ -7985,7 +7985,7 @@
                 "id": 140494324,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T21:14:08Z",
+                "last_commit": "2026-10-15T11:55:10Z",
                 "open_issues": 242,
                 "owner": "Xilinx",
                 "repo": "brevitas",
@@ -8024,11 +8024,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-14T20:56:36Z",
-                "open_issues": 2562,
+                "last_commit": "2026-10-15T20:38:26Z",
+                "open_issues": 2584,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 131185,
+                "stars": 131297,
                 "topics": [
                   "ggml"
                 ]
@@ -8047,11 +8047,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:27:39Z",
-                "open_issues": 8867,
+                "last_commit": "2026-10-15T21:11:33Z",
+                "open_issues": 8928,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 93797,
+                "stars": 93866,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -8089,11 +8089,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T20:25:54Z",
-                "open_issues": 1665,
+                "last_commit": "2026-10-15T21:09:13Z",
+                "open_issues": 1713,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14815,
+                "stars": 14823,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -8116,11 +8116,11 @@
                 "id": 539057023,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:23:52Z",
-                "open_issues": 363,
+                "last_commit": "2026-10-15T11:17:23Z",
+                "open_issues": 361,
                 "owner": "NVIDIA",
                 "repo": "TransformerEngine",
-                "stars": 3579,
+                "stars": 3581,
                 "topics": [
                   "cuda",
                   "deep-learning",
@@ -8148,7 +8148,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T23:07:26Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
                 "stars": 3960,
@@ -8182,7 +8182,7 @@
                 "open_issues": 373,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41157,
+                "stars": 41171,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -8199,11 +8199,11 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-14T15:23:31Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-15T16:27:20Z",
+                "open_issues": 108,
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": [
                   "compiler",
                   "dataflow",
@@ -8226,11 +8226,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T14:09:16Z",
-                "open_issues": 1243,
+                "last_commit": "2026-10-14T23:24:59Z",
+                "open_issues": 1251,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23956,
+                "stars": 23960,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -8342,7 +8342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:39:41.842Z",
+    "last_updated": "2026-10-15T21:21:14.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and efficient deployment.",
@@ -8350,11 +8350,11 @@
       "id": 153568046,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-12T01:08:09Z",
+      "last_commit": "2026-10-15T05:06:39Z",
       "open_issues": 0,
       "owner": "AI-Efficiency",
       "repo": "Awesome-Model-Quantization",
-      "stars": 2456,
+      "stars": 2455,
       "topics": [
         "awesome",
         "awesome-list",
@@ -8378,7 +8378,7 @@
         "vector-quantization"
       ]
     },
-    "original_repository_sha": "4a879fca035e28c8b631fc06b06f56e3deca8fb0",
+    "original_repository_sha": "8d752b9a134ea959611a805686df195ffe8097e0",
     "enhanced_repository": "enhansome/enhansome-Awesome-Model-Quantization",
     "enhanced_repository_description": null,
     "title": "Awesome Model Quantization with stars"
