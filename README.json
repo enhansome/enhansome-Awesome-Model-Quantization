@@ -255,10 +255,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T14:35:27Z",
-                "open_issues": 102,
+                "open_issues": 105,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8529,
+                "stars": 8531,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -285,7 +285,7 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3654,
+                "stars": 3656,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -428,7 +428,7 @@
                 "open_issues": 5,
                 "owner": "spcl",
                 "repo": "QuaRot",
-                "stars": 536,
+                "stars": 537,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -519,7 +519,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11052,
+                "stars": 11054,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -864,7 +864,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "VPTQ",
-                "stars": 682,
+                "stars": 683,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -1050,6 +1050,35 @@
           "children": [
             {
               "node_type": "item",
+              "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu ICML 2024 · · Paper",
+              "description": "Code · Scholar Uses asymmetric, tuning-free 2-bit quantization to compress key and value caches.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+                "homepage": "https://arxiv.org/abs/2402.02750",
+                "id": 751957145,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-11-20T20:34:33Z",
+                "open_issues": 7,
+                "owner": "jy-yuan",
+                "repo": "KIVI",
+                "stars": 437,
+                "topics": [
+                  "inference",
+                  "large-language-models",
+                  "llama",
+                  "llm",
+                  "natural-language-processing",
+                  "quantization",
+                  "transformer"
+                ]
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
               "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael Mahoney, Sophia Shao, Kurt Keutzer, Amir Gholami NeurIPS 2024 · · Paper",
               "description": "Code · Scholar Targets long-context inference by reducing the memory occupied by the KV cache.",
               "children": [],
@@ -1084,35 +1113,6 @@
                 ]
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
-            },
-            {
-              "node_type": "item",
-              "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu ICML 2024 · · Paper",
-              "description": "Code · Scholar Uses asymmetric, tuning-free 2-bit quantization to compress key and value caches.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
-                "homepage": "https://arxiv.org/abs/2402.02750",
-                "id": 751957145,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-11-20T20:34:33Z",
-                "open_issues": 7,
-                "owner": "jy-yuan",
-                "repo": "KIVI",
-                "stars": 436,
-                "topics": [
-                  "inference",
-                  "large-language-models",
-                  "llama",
-                  "llm",
-                  "natural-language-processing",
-                  "quantization",
-                  "transformer"
-                ]
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
             },
             {
               "node_type": "item",
@@ -1179,7 +1179,7 @@
                 "open_issues": 30,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
-                "stars": 3961,
+                "stars": 3960,
                 "topics": [
                   "comfyui",
                   "diffusion-models",
@@ -1286,7 +1286,7 @@
                 "open_issues": 9,
                 "owner": "ziplab",
                 "repo": "PTQD",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -1444,7 +1444,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T15:15:44Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1085,
@@ -1495,7 +1495,7 @@
                 "open_issues": 19,
                 "owner": "mit-han-lab",
                 "repo": "haq",
-                "stars": 408,
+                "stars": 409,
                 "topics": [
                   "automl",
                   "efficient-model",
@@ -1666,10 +1666,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T14:35:27Z",
-                "open_issues": 102,
+                "open_issues": 105,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8529,
+                "stars": 8531,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -1912,7 +1912,7 @@
                 "open_issues": 68,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1771,
+                "stars": 1773,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -1947,7 +1947,7 @@
                 "open_issues": 68,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1771,
+                "stars": 1773,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -2971,7 +2971,7 @@
                 "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41229,
+                "stars": 41227,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -2992,7 +2992,7 @@
                 "open_issues": 216,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3974,
+                "stars": 3975,
                 "topics": [
                   "attention",
                   "cuda",
@@ -3026,7 +3026,7 @@
                 "open_issues": 30,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
-                "stars": 3961,
+                "stars": 3960,
                 "topics": [
                   "comfyui",
                   "diffusion-models",
@@ -4092,7 +4092,7 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3654,
+                "stars": 3656,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4254,7 +4254,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "VPTQ",
-                "stars": 682,
+                "stars": 683,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -4317,8 +4317,37 @@
                 "open_issues": 5,
                 "owner": "spcl",
                 "repo": "QuaRot",
-                "stars": 536,
+                "stars": 537,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+                "homepage": "https://arxiv.org/abs/2402.02750",
+                "id": 751957145,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-11-20T20:34:33Z",
+                "open_issues": 7,
+                "owner": "jy-yuan",
+                "repo": "KIVI",
+                "stars": 437,
+                "topics": [
+                  "inference",
+                  "large-language-models",
+                  "llama",
+                  "llm",
+                  "natural-language-processing",
+                  "quantization",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
             },
@@ -4358,35 +4387,6 @@
                 ]
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[ICML",
-              "description": "] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
-                "homepage": "https://arxiv.org/abs/2402.02750",
-                "id": 751957145,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-11-20T20:34:33Z",
-                "open_issues": 7,
-                "owner": "jy-yuan",
-                "repo": "KIVI",
-                "stars": 436,
-                "topics": [
-                  "inference",
-                  "large-language-models",
-                  "llama",
-                  "llm",
-                  "natural-language-processing",
-                  "quantization",
-                  "transformer"
-                ]
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
             },
             {
               "node_type": "item",
@@ -4991,11 +4991,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T18:06:25Z",
-                "open_issues": 1560,
+                "last_commit": "2026-10-25T19:24:38Z",
+                "open_issues": 1562,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43266,
+                "stars": 43273,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -5030,7 +5030,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11052,
+                "stars": 11054,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5051,7 +5051,7 @@
                 "open_issues": 31,
                 "owner": "intel",
                 "repo": "neural-compressor",
-                "stars": 2723,
+                "stars": 2724,
                 "topics": [
                   "auto-tuning",
                   "awq",
@@ -5308,7 +5308,7 @@
                 "open_issues": 9,
                 "owner": "ziplab",
                 "repo": "PTQD",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5800,11 +5800,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T18:06:25Z",
-                "open_issues": 1560,
+                "last_commit": "2026-10-25T19:24:38Z",
+                "open_issues": 1562,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43266,
+                "stars": 43273,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -5836,10 +5836,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T14:35:27Z",
-                "open_issues": 102,
+                "open_issues": 105,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8529,
+                "stars": 8531,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -5863,10 +5863,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T14:35:27Z",
-                "open_issues": 102,
+                "open_issues": 105,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8529,
+                "stars": 8531,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -6505,7 +6505,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -7719,7 +7719,7 @@
                 "open_issues": 19,
                 "owner": "mit-han-lab",
                 "repo": "haq",
-                "stars": 408,
+                "stars": 409,
                 "topics": [
                   "automl",
                   "efficient-model",
@@ -8195,7 +8195,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T15:15:44Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1085,
@@ -8395,7 +8395,7 @@
                 "open_issues": 14,
                 "owner": "tensorpack",
                 "repo": "tensorpack",
-                "stars": 6285,
+                "stars": 6286,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -8543,7 +8543,7 @@
                 "id": 714073518,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T21:13:13Z",
+                "last_commit": "2026-10-25T07:08:14Z",
                 "open_issues": 823,
                 "owner": "pytorch",
                 "repo": "ao",
@@ -8578,10 +8578,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T14:35:27Z",
-                "open_issues": 102,
+                "open_issues": 105,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8529,
+                "stars": 8531,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -8608,7 +8608,7 @@
                 "open_issues": 124,
                 "owner": "vllm-project",
                 "repo": "llm-compressor",
-                "stars": 3908,
+                "stars": 3912,
                 "topics": [
                   "compression",
                   "quantization"
@@ -8628,11 +8628,11 @@
                 "id": 790916393,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T19:47:46Z",
-                "open_issues": 528,
+                "last_commit": "2026-10-25T20:37:24Z",
+                "open_issues": 538,
                 "owner": "NVIDIA",
                 "repo": "Model-Optimizer",
-                "stars": 5428,
+                "stars": 5434,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -8786,11 +8786,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-24T20:08:06Z",
-                "open_issues": 2598,
+                "last_commit": "2026-10-25T20:42:31Z",
+                "open_issues": 2588,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 132247,
+                "stars": 132340,
                 "topics": [
                   "ggml"
                 ]
@@ -8809,11 +8809,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T20:35:17Z",
-                "open_issues": 9411,
+                "last_commit": "2026-10-25T20:01:58Z",
+                "open_issues": 9438,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 95334,
+                "stars": 95473,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -8851,11 +8851,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T18:59:44Z",
-                "open_issues": 1786,
+                "last_commit": "2026-10-25T19:27:11Z",
+                "open_issues": 1801,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14939,
+                "stars": 14945,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -8913,7 +8913,7 @@
                 "open_issues": 30,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
-                "stars": 3961,
+                "stars": 3960,
                 "topics": [
                   "comfyui",
                   "diffusion-models",
@@ -8944,7 +8944,7 @@
                 "open_issues": 375,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41229,
+                "stars": 41227,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -8962,7 +8962,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T15:15:44Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1085,
@@ -8988,11 +8988,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T03:41:16Z",
+                "last_commit": "2026-10-25T15:59:07Z",
                 "open_issues": 1275,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23994,
+                "stars": 23997,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -9104,7 +9104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T20:47:02.907Z",
+    "last_updated": "2026-10-25T20:49:11.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and efficient deployment.",
@@ -9116,7 +9116,7 @@
       "open_issues": 3,
       "owner": "AI-Efficiency",
       "repo": "Awesome-Model-Quantization",
-      "stars": 2457,
+      "stars": 2458,
       "topics": [
         "awesome",
         "awesome-list",
