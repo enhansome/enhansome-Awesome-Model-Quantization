@@ -255,10 +255,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T14:36:37Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8541,
+                "stars": 8543,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -285,7 +285,7 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3665,
+                "stars": 3667,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -327,7 +327,7 @@
                 "open_issues": 74,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -428,7 +428,7 @@
                 "open_issues": 5,
                 "owner": "spcl",
                 "repo": "QuaRot",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -519,7 +519,7 @@
                 "open_issues": 208,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11067,
+                "stars": 11069,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -617,6 +617,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits Shuming Ma, Hongyu Wang, Lingxiao Ma, Lei Wang, Wenhui Wang, Shaohan Huang, Li Dong, Ruiping Wang, Jilong Xue, Furu Wei arXiv 2024 · · Paper",
+              "description": "Code · Scholar Extends BitNet’s quantization-aware pretraining to ternary weights; this is a training recipe, distinct from post-training binarization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official inference framework for 1-bit LLMs",
+                "homepage": null,
+                "id": 838253246,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-07-27T05:52:06Z",
+                "open_issues": 379,
+                "owner": "microsoft",
+                "repo": "BitNet",
+                "stars": 41588,
+                "topics": []
+              },
+              "first_seen": "2026-09-11T20:56:53.740Z"
+            },
             {
               "node_type": "item",
               "title": "ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions Zechun Liu, Zhiqiang Shen, Marios Savvides, Kwang-Ting Cheng ECCV 2020 · · Paper",
@@ -728,7 +749,7 @@
                 "open_issues": 3,
                 "owner": "AI-Efficiency",
                 "repo": "BiBERT",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "bert",
                   "binarization"
@@ -1100,7 +1121,7 @@
                 "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "compression",
                   "efficient-inference",
@@ -1186,7 +1207,7 @@
                 "open_issues": 31,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
-                "stars": 3966,
+                "stars": 3968,
                 "topics": [
                   "comfyui",
                   "diffusion-models",
@@ -1405,7 +1426,7 @@
                 "open_issues": 4,
                 "owner": "ChangyuanWang17",
                 "repo": "QVLM",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -1450,11 +1471,11 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T16:12:31Z",
+                "last_commit": "2026-11-16T16:23:22Z",
                 "open_issues": 88,
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1092,
+                "stars": 1093,
                 "topics": [
                   "compiler",
                   "dataflow",
@@ -1481,7 +1502,7 @@
                 "open_issues": 55,
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 868,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -1673,10 +1694,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T14:36:37Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8541,
+                "stars": 8543,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -1905,8 +1926,36 @@
           "children": [
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] Attn-QAT: 4-Bit Attention With Quantization-Aware Training [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A unified inference and post-training framework for accelerated video generation.",
+                "homepage": "https://hao-ai-lab.github.io/FastVideo",
+                "id": 877649153,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-15T19:15:04Z",
+                "open_issues": 140,
+                "owner": "hao-ai-lab",
+                "repo": "FastVideo",
+                "stars": 4822,
+                "topics": [
+                  "diffusers",
+                  "diffusion-models",
+                  "distillation",
+                  "inference",
+                  "post-training",
+                  "video-generation"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
-              "description": "] Tequila: Deadzone-free Ternary Quantization for Large Language Models [code]",
+              "description": "] Tequila: Trapping-free Ternary Quantization for Large Language Models [OpenReview] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1915,11 +1964,11 @@
                 "id": 1013493454,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T09:05:27Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-16T08:32:58Z",
+                "open_issues": 69,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1789,
+                "stars": 1792,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -1940,8 +1989,8 @@
             },
             {
               "node_type": "item",
-              "title": "Tencent/AngelSlim",
-              "description": "] Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification [code]",
+              "title": "[ACL",
+              "description": "] Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification [arXiv] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1950,11 +1999,11 @@
                 "id": 1013493454,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T09:05:27Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-16T08:32:58Z",
+                "open_issues": 69,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1789,
+                "stars": 1792,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -1972,6 +2021,36 @@
                 ]
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] SINQ: Sinkhorn-Normalized Quantization for Calibration-Free Low-Precision LLM Weights [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Welcome to the official repository of SINQ! A novel, fast and high-quality quantization method designed to make any Large Language Model smaller while preserving accuracy [ICML 2026]",
+                "homepage": "https://www.arxiv.org/abs/2509.22944",
+                "id": 1064605100,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-08T10:07:09Z",
+                "open_issues": 11,
+                "owner": "huawei-csl",
+                "repo": "SINQ",
+                "stars": 638,
+                "topics": [
+                  "ai",
+                  "deepseek",
+                  "huawei",
+                  "large-language-models",
+                  "model-agnostic",
+                  "plug-and-play",
+                  "quantization",
+                  "qwen"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2006,8 +2085,8 @@
                 "id": 1062171191,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-03-30T05:39:29Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-16T01:37:05Z",
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "qerl",
                 "stars": 527,
@@ -2048,6 +2127,27 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of LittleBit (NeurIPS 2025) and its follow-up LittleBit-2 (ICML 2026)",
+                "homepage": null,
+                "id": 1098655755,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-09T03:03:34Z",
+                "open_issues": 1,
+                "owner": "SamsungLabs",
+                "repo": "LittleBit",
+                "stars": 384,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T22:20:04.031Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
               "description": "] ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference [code]",
               "children": [],
@@ -2069,8 +2169,44 @@
             },
             {
               "node_type": "item",
+              "title": "huawei-csl/MACaQ",
+              "description": "] MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+                "homepage": "https://huawei-csl.com/blog/macaq/",
+                "id": 1452417816,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-12T09:57:27Z",
+                "open_issues": 6,
+                "owner": "huawei-csl",
+                "repo": "MACaQ",
+                "stars": 340,
+                "topics": [
+                  "ascend",
+                  "audio",
+                  "audio-generation",
+                  "diffusers",
+                  "gguf",
+                  "gguf-quantization",
+                  "image-generation",
+                  "llama-cpp",
+                  "llm",
+                  "local-ai",
+                  "local-inference",
+                  "quantization",
+                  "video-generation",
+                  "vllm"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
-              "description": "] Bridging the Gap Between Promise and Performance for FP4 Quantization [code]",
+              "description": "] Bridging the Gap Between Promise and Performance for Microscaling FP4 Quantization [arXiv] [code] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2111,6 +2247,27 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] Towards Sub-Second Molecular Docking as a Structural Primitive: A Quantized Consistency Diffusion Framework [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Physics-Guided All-Atom Diffusion Model for Accurate Protein-Ligand Complex Prediction",
+                "homepage": null,
+                "id": 966072403,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T03:55:07Z",
+                "open_issues": 6,
+                "owner": "KexinZhangResearch",
+                "repo": "PhysDock",
+                "stars": 94,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "zhangsq-nju/EdgeRazor",
               "description": "] EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation [code]",
               "children": [],
@@ -2132,8 +2289,76 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026]A framework to compare low-bit integer and float-point formats",
+                "homepage": null,
+                "id": 1079670256,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-06T02:58:17Z",
+                "open_issues": 3,
+                "owner": "ChenMnZ",
+                "repo": "INT_vs_FP",
+                "stars": 86,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Quartet II Official Code",
+                "homepage": null,
+                "id": 1145876016,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-01T14:52:15Z",
+                "open_issues": 3,
+                "owner": "IST-DASLab",
+                "repo": "Quartet-II",
+                "stars": 86,
+                "topics": [
+                  "llm",
+                  "pytorch",
+                  "qat",
+                  "quantization"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
+              "description": "] Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention",
+                "homepage": null,
+                "id": 1059936101,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-07T08:11:44Z",
+                "open_issues": 0,
+                "owner": "ucker",
+                "repo": "why-low-precision-training-fails",
+                "stars": 84,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[Visual Intelligence",
-              "description": "] An Empirical Study of Qwen3 Quantization [code] [arXiv]",
+              "description": "] An Empirical Study of Qwen3 Quantization [code] [arXiv] [DOI]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2150,6 +2375,69 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML2026] Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization",
+                "homepage": null,
+                "id": 1162337650,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-26T19:49:31Z",
+                "open_issues": 2,
+                "owner": "svg-project",
+                "repo": "Quant-VideoGen",
+                "stars": 67,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Making 1.58-bit models simple to build and broadly accessible through low-cost, high-accuracy post-training ternary quantization.",
+                "homepage": null,
+                "id": 1248735456,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-18T09:44:26Z",
+                "open_issues": 2,
+                "owner": "IntelChina-AI",
+                "repo": "BitTern",
+                "stars": 48,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR",
+              "description": "] BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR2026] BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers",
+                "homepage": null,
+                "id": 1177793470,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-17T08:09:40Z",
+                "open_issues": 3,
+                "owner": "EdwardChasel",
+                "repo": "BinaryAttention",
+                "stars": 46,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2251,7 +2539,7 @@
             },
             {
               "node_type": "item",
-              "title": "deep-optimization/SliderQuant",
+              "title": "[ICLR",
               "description": "] SliderQuant: Accurate Post-Training Quantization for LLMs [code]",
               "children": [],
               "repo_info": {
@@ -2269,6 +2557,77 @@
                 "topics": []
               },
               "first_seen": "2026-10-16T21:05:57.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models",
+                "homepage": "https://arxiv.org/abs/2602.06694",
+                "id": 1252136178,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-03T10:50:33Z",
+                "open_issues": 1,
+                "owner": "SamsungLabs",
+                "repo": "NanoQuant",
+                "stars": 29,
+                "topics": [
+                  "cuda",
+                  "icml-2026",
+                  "llm",
+                  "post-training-quantization",
+                  "ptq",
+                  "pytorch",
+                  "quantization"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR",
+              "description": "] Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients",
+                "homepage": null,
+                "id": 1167710919,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-21T03:17:33Z",
+                "open_issues": 3,
+                "owner": "ucas-xiang",
+                "repo": "QIG",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1235374656,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-11T09:26:35Z",
+                "open_issues": 0,
+                "owner": "arm-research",
+                "repo": "AAIR-LATMiX",
+                "stars": 22,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2290,6 +2649,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026 Spotlight] Official implementation of TetraJet-v2: Accurate NVFP4 Training for LLMs, with fully-NVFP4 linear layer with unbiased backprop, and algorithms to overcome LLMs' weight-oscillation and activation-outlier bottlenecks.",
+                "homepage": null,
+                "id": 1228115620,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-03T02:36:04Z",
+                "open_issues": 0,
+                "owner": "thu-ml",
+                "repo": "TetraJet-v2-NVFP4Training",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS",
+              "description": "] Breaking Modality Heterogeneity in Low-Bit Quantization for Large Vision-Language Models [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PyTorch code for \"Breaking Modality Heterogeneity in Low-Bit Quantization for Large Vision-Language Models\"",
+                "homepage": null,
+                "id": 1236265933,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-21T13:50:57Z",
+                "open_issues": 1,
+                "owner": "EMVision-NK",
+                "repo": "SplitQ",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2332,6 +2733,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] WUSH: Near-Optimal Adaptive Transforms for LLM Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Repository for \"WUSH: Near-Optimal Adaptive Transforms for LLM Quantization\" (ICML 2026)",
+                "homepage": "https://openreview.net/forum?id=ZsECxUkbKB",
+                "id": 1148038162,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-30T18:09:59Z",
+                "open_issues": 0,
+                "owner": "IST-DASLab",
+                "repo": "WUSH",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2398,6 +2820,132 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML'26] RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
+                "homepage": null,
+                "id": 1241979723,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-14T08:03:04Z",
+                "open_issues": 2,
+                "owner": "Sakuraaa0",
+                "repo": "RaBitQCache",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PyTorch code for our paper \"LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution\"",
+                "homepage": null,
+                "id": 1147629621,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-21T07:07:03Z",
+                "open_issues": 2,
+                "owner": "zhengchen1999",
+                "repo": "LSGQuant",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Quantization-Aware Training for NVFP4 Reasoning Models",
+                "homepage": null,
+                "id": 1246212201,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-10T07:02:59Z",
+                "open_issues": 0,
+                "owner": "aiha-lab",
+                "repo": "ReQAT",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
+              "description": "] Metis: Training LLMs with FP4 Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1052545827,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-19T07:34:19Z",
+                "open_issues": 2,
+                "owner": "sii-research",
+                "repo": "Metis",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] Condition Number Based Low-Bit Quantization for Image Super-Resolution [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 933564933,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-11T14:17:32Z",
+                "open_issues": 2,
+                "owner": "Kai-Liu001",
+                "repo": "CondiQuant",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS",
+              "description": "] DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Denoising-Stage-Aligned Quantization-Aware Training for Video Generation",
+                "homepage": null,
+                "id": 1354668354,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-04T01:37:30Z",
+                "open_issues": 0,
+                "owner": "robbyant-research",
+                "repo": "DSAQuant",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
               "description": "] QWHA: Quantization-Aware Walsh-Hadamard Adaptation for Parameter-Efficient Fine-Tuning on Large Language Models [code]",
               "children": [],
@@ -2419,8 +2967,29 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling",
+                "homepage": null,
+                "id": 1047034508,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2025-09-03T18:55:20Z",
+                "open_issues": 0,
+                "owner": "enyac-group",
+                "repo": "q-sched",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
-              "description": "] QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification [code]",
+              "description": "] QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification [project]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2440,8 +3009,54 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML'26] BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models",
+                "homepage": null,
+                "id": 1149343777,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-23T07:21:35Z",
+                "open_issues": 1,
+                "owner": "KingdalfGoodman",
+                "repo": "BPDQ",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] Global Expert-Level Mixed-Precision Quantization for MoE LLMs",
+                "homepage": null,
+                "id": 1233299546,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-04T18:38:42Z",
+                "open_issues": 0,
+                "owner": "jndeng",
+                "repo": "GEMQ",
+                "stars": 12,
+                "topics": [
+                  "llms",
+                  "mixture-of-experts",
+                  "quantization"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization [code] [Scholar]",
+              "description": "] AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization [code] [Scholar] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2507,8 +3122,29 @@
             },
             {
               "node_type": "item",
+              "title": "[MLSys",
+              "description": "] MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design",
+                "homepage": null,
+                "id": 1143841112,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-03-31T16:44:13Z",
+                "open_issues": 1,
+                "owner": "microsoft",
+                "repo": "MixLLM",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] D²Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs [code] [Scholar]",
+              "description": "] D²Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs [code] [Scholar] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2549,6 +3185,27 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML'26] TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization",
+                "homepage": null,
+                "id": 1143061511,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-12T02:28:00Z",
+                "open_issues": 1,
+                "owner": "Kishon-zzx",
+                "repo": "TWLA",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
               "description": "] LogART: Pushing the Limit of Efficient Logarithmic Post-Training Quantization [code]",
               "children": [],
@@ -2570,8 +3227,50 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for \"Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs\"",
+                "homepage": "https://ai-isl.github.io/srr",
+                "id": 1237517188,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-13T09:48:49Z",
+                "open_issues": 0,
+                "owner": "cyoonjun",
+                "repo": "srr",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WinQ Accelerating Quantization-Aware Training for LLMs around Saddle Points",
+                "homepage": null,
+                "id": 1054483322,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-11-15T21:07:30Z",
+                "open_issues": 0,
+                "owner": "facebookresearch",
+                "repo": "WinQ",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] Normalized Architectures are Natively 4-Bit [code] [Scholar]",
+              "description": "] Normalized Architectures are Natively 4-Bit [code] [Scholar] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2612,8 +3311,29 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1145059344,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-03T10:39:51Z",
+                "open_issues": 0,
+                "owner": "yy9301",
+                "repo": "ProjQ",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models [code] [Scholar]",
+              "description": "] SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models [code] [Scholar] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2654,8 +3374,50 @@
             },
             {
               "node_type": "item",
+              "title": "[ICLR",
+              "description": "] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides the official implementation of WSVD, a method for efficient low-rank approximation for fast and efficient execution of Low-Precision Vision-Language Models (VLMs).",
+                "homepage": null,
+                "id": 1169666744,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-19T04:35:24Z",
+                "open_issues": 1,
+                "owner": "SAI-Lab-NYU",
+                "repo": "WSVD",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs",
+                "homepage": "https://arxiv.org/abs/2602.05367",
+                "id": 1255946959,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-05T10:12:17Z",
+                "open_issues": 1,
+                "owner": "SamsungLabs",
+                "repo": "RaBiT",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs [code] [Scholar]",
+              "description": "] HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs [code] [Scholar] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2672,6 +3434,37 @@
                 "topics": []
               },
               "first_seen": "2026-09-28T23:15:20.683Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[EMNLP",
+              "description": "] OCGQuant: Outlier-Companion Grouping for NVFP4 Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[EMNLP 2026] Code for the paper \"OCGQuant: Outlier-Companion Grouping for NVFP4 Quantization\"",
+                "homepage": null,
+                "id": 1360339926,
+                "language": "Cuda",
+                "license": null,
+                "last_commit": "2026-10-31T14:12:34Z",
+                "open_issues": 0,
+                "owner": "Eshamont",
+                "repo": "OCGQuant",
+                "stars": 6,
+                "topics": [
+                  "blackwell",
+                  "fp4-quantization",
+                  "inference-acceleration",
+                  "llm",
+                  "llm-compression",
+                  "microscaling-formats",
+                  "nvfp4",
+                  "ptq",
+                  "quantization"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2789,8 +3582,50 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] Codes of paper UniSVQ: 2-bit Unified Scalar-Vector Quantization and LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization.",
+                "homepage": null,
+                "id": 1284621110,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-13T06:30:07Z",
+                "open_issues": 2,
+                "owner": "AI9Stars",
+                "repo": "UniSVQ",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] UniSVQ: 2-bit Unified Scalar-Vector Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] Codes of paper UniSVQ: 2-bit Unified Scalar-Vector Quantization and LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization.",
+                "homepage": null,
+                "id": 1284621110,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-13T06:30:07Z",
+                "open_issues": 2,
+                "owner": "AI9Stars",
+                "repo": "UniSVQ",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[EMNLP",
-              "description": "] Colla-Q: Toward Collaborative Experts in MoE Quantization via Minimax Precision Balancing [code] [Scholar]",
+              "description": "] Colla-Q: Toward Collaborative Experts in MoE Quantization via Minimax Precision Balancing [code] [Scholar] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2810,8 +3645,32 @@
             },
             {
               "node_type": "item",
+              "title": "[EMNLP",
+              "description": "] Frequency Matters: Fast Model-Agnostic Data Curation for Pruning and Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[EMNLP 26] Code for Frequency Matters: Fast Model-Agnostic Data Curation for Pruning and Quantization ",
+                "homepage": "https://arxiv.org/abs/2603.16105",
+                "id": 1101122642,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-26T10:20:12Z",
+                "open_issues": 0,
+                "owner": "FrancescoMonaco",
+                "repo": "ZipCal",
+                "stars": 4,
+                "topics": [
+                  "model-compression",
+                  "pruning-sparsity"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICLR",
-              "description": "] Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations [code]",
+              "description": "] Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations [OpenReview] [arXiv] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2832,7 +3691,70 @@
             {
               "node_type": "item",
               "title": "[ICLR",
-              "description": "] BBQ: Boosting Quantization Entropy with Bell Box Quantization [code]",
+              "description": "] Zeros can be Informative: Masked Binary U-Net for Image Segmentation on Tensor Cores [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for ICLR 2026 \"Zeros can be Informative: Masked Binary U-Net for Image Segmentation on Tensor Cores\"",
+                "homepage": null,
+                "id": 1159533285,
+                "language": "Cuda",
+                "license": "NOASSERTION",
+                "last_commit": "2026-04-29T01:16:21Z",
+                "open_issues": 0,
+                "owner": "ChunshuWu",
+                "repo": "MBU-Net",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] Active Continual Learning with Metaplastic Binary Bayesian Neural Networks [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1146101187,
+                "language": "C",
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-09-26T17:07:59Z",
+                "open_issues": 0,
+                "owner": "kellian-cottart",
+                "repo": "active-continual-learning-bayesianbinn",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] WaterSIC: Information-Theoretically (Near) Optimal Linear Layer Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1253081121,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-29T06:24:40Z",
+                "open_issues": 0,
+                "owner": "egorlifar",
+                "repo": "watersic",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
+              "description": "] Boosting Entropy with Bell Box Quantization [OpenReview] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2873,8 +3795,92 @@
             },
             {
               "node_type": "item",
+              "title": "[ICML",
+              "description": "] 1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Training and inference code for quantization-aware training with k-means learned centroids.",
+                "homepage": "https://arxiv.org/html/2602.15563",
+                "id": 1148061530,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-16T08:05:46Z",
+                "open_issues": 1,
+                "owner": "Aleph-Alpha-Research",
+                "repo": "1-Bit-Wonder",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1237544322,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-29T02:46:49Z",
+                "open_issues": 1,
+                "owner": "hfutqian",
+                "repo": "MaskAQ",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] Training-Free Hashing-Based Attention via Binary Principal Components [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1245517472,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-13T09:04:18Z",
+                "open_issues": 0,
+                "owner": "yudaohai666",
+                "repo": "BPC",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] STLA: Spatiotemporal Lookahead Alignment for Post-Training Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1235490651,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-13T12:48:48Z",
+                "open_issues": 0,
+                "owner": "AI2C-Lab",
+                "repo": "STLA",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] CoreQ: Learning-Free Mismatch Correction and Successive Rounding for Quantization · Spotlight [code] [Scholar]",
+              "description": "] CoreQ: Learning-Free Mismatch Correction and Successive Rounding for Quantization [code] [Scholar] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2891,6 +3897,48 @@
                 "topics": []
               },
               "first_seen": "2026-10-13T00:38:08.829Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR",
+              "description": "] TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1191320306,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-03-25T07:13:02Z",
+                "open_issues": 0,
+                "owner": "SamsungLabs",
+                "repo": "TurboBoA",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-16T21:05:57.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] NeUQI: Near-Optimal Uniform Quantization Parameter Initialization for Low-Bit LLMs [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1000246949,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-15T15:17:17Z",
+                "open_issues": 0,
+                "owner": "efsotr",
+                "repo": "NeUQI",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2915,24 +3963,66 @@
             },
             {
               "node_type": "item",
-              "title": "[ICLR",
-              "description": "] TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation [code]",
+              "title": "[ICML",
+              "description": "] Rank-Aware Spectral Bounds on Attention Logits for Stable Low-Precision Training [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": " Code for ICML 2026: 'Rank-Aware Spectral Bounds on Attention Logits for Stable Low-Precision Training'. Geometry-aware FP8 scale factors computed predictively from W_Q W_K spectral norms; eliminates attention overflow during checkpoint loading and LR warmup where history-based delayed scaling fails.",
+                "homepage": null,
+                "id": 1247552061,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-23T13:30:47Z",
+                "open_issues": 0,
+                "owner": "SeyedMEmadi",
+                "repo": "fp8-geometry-aware-scaling",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] FPTQuant: Function-Preserving Transforms for LLM Quantization [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": null,
                 "homepage": null,
-                "id": 1191320306,
+                "id": 1326371002,
                 "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-03-25T07:13:02Z",
+                "license": "BSD-3-Clause-Clear",
+                "last_commit": "2026-10-09T08:50:14Z",
                 "open_issues": 0,
-                "owner": "SamsungLabs",
-                "repo": "TurboBoA",
-                "stars": 1,
+                "owner": "Qualcomm-AI-research",
+                "repo": "fptquant",
+                "stars": 0,
                 "topics": []
               },
-              "first_seen": "2026-10-16T21:05:57.140Z"
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML",
+              "description": "] Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models(ICML 2026)",
+                "homepage": null,
+                "id": 987546480,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-28T04:22:00Z",
+                "open_issues": 0,
+                "owner": "ZephyrYoung-eYuan",
+                "repo": "DNS_AQE",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -2978,7 +4068,7 @@
                 "open_issues": 379,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41585,
+                "stars": 41588,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -2996,10 +4086,10 @@
                 "language": "Cuda",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-17T17:43:28Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 4011,
+                "stars": 4012,
                 "topics": [
                   "attention",
                   "cuda",
@@ -3033,7 +4123,7 @@
                 "open_issues": 31,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
-                "stars": 3966,
+                "stars": 3968,
                 "topics": [
                   "comfyui",
                   "diffusion-models",
@@ -3064,7 +4154,7 @@
                 "open_issues": 55,
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 868,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -3132,7 +4222,7 @@
                 "open_issues": 1,
                 "owner": "SamsungLabs",
                 "repo": "LittleBit",
-                "stars": 364,
+                "stars": 384,
                 "topics": []
               },
               "first_seen": "2026-10-19T22:20:04.031Z"
@@ -3204,6 +4294,39 @@
                 ]
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[TPAMI",
+              "description": "] Temporal Feature Matters: A Framework for Diffusion Model Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2024 Highlight & TPAMI 2025] This is the official PyTorch implementation of \"TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models\".",
+                "homepage": "https://www.light-ai.top/TFMQ-DM/",
+                "id": 769502884,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2025-09-29T09:27:40Z",
+                "open_issues": 0,
+                "owner": "ModelTC",
+                "repo": "TFMQ-DM",
+                "stars": 111,
+                "topics": [
+                  "cvpr",
+                  "cvpr2024",
+                  "ddim",
+                  "diffusion-models",
+                  "highlight",
+                  "ldm",
+                  "post-training-quantization",
+                  "quantization",
+                  "stable-diffusion",
+                  "tpami",
+                  "tpami2025"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -3361,6 +4484,27 @@
             },
             {
               "node_type": "item",
+              "title": "[CVPR",
+              "description": "] BHViT: Binarized Hybrid Vision Transformer [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This code is an implementation of CVPR‘25 work \"BHViT: Binarized Hybrid Vision Transformer.\"",
+                "homepage": null,
+                "id": 942509988,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-03-14T11:57:07Z",
+                "open_issues": 1,
+                "owner": "IMRL",
+                "repo": "BHViT",
+                "stars": 59,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICCV",
               "description": "] Scheduling Weight Transitions for Quantization-Aware Training [code]",
               "children": [],
@@ -3410,7 +4554,7 @@
             {
               "node_type": "item",
               "title": "[CVPR",
-              "description": "] APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformer [code]",
+              "description": "] APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers [arXiv] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3532,6 +4676,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR",
+              "description": "] FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2025 Highlight] FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation",
+                "homepage": null,
+                "id": 872200298,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-06-16T06:05:33Z",
+                "open_issues": 5,
+                "owner": "ShiheWang",
+                "repo": "FIMA-Q",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -3823,6 +4988,27 @@
             },
             {
               "node_type": "item",
+              "title": "[CVPR",
+              "description": "] Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for CVPR 2025 paper \"Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing\".",
+                "homepage": null,
+                "id": 940377004,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-09-29T06:42:37Z",
+                "open_issues": 6,
+                "owner": "Clausy9",
+                "repo": "BMTNet",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
               "description": "] LoTA-QAF: Lossless Ternary Adaptation for Quantization-Aware Fine-Tuning [code]",
               "children": [],
@@ -3862,6 +5048,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV",
+              "description": "] SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICCV'25] SSVQ: Unleashing the potential of vector quantization with sign-splitting",
+                "homepage": null,
+                "id": 1025996164,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-04T11:22:36Z",
+                "open_issues": 1,
+                "owner": "list0830",
+                "repo": "SSVQ",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -4022,6 +5229,27 @@
             },
             {
               "node_type": "item",
+              "title": "[ICCV",
+              "description": "] Allowing Oscillation Quantization: Overcoming Solution Space Limitation in Low Bit-Width Quantization [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Allowing Oscillation Quantization: Overcoming Solution Space Limitation in Low Bit-Width Quantization",
+                "homepage": null,
+                "id": 1008832725,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-06-26T08:24:21Z",
+                "open_issues": 0,
+                "owner": "muzenc",
+                "repo": "AOQ",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS",
               "description": "] S²Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation [code]",
               "children": [],
@@ -4064,6 +5292,27 @@
             },
             {
               "node_type": "item",
+              "title": "[AAAI",
+              "description": "] VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[AAAI'25]  Code for VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers",
+                "homepage": null,
+                "id": 1105757746,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-11-28T06:52:36Z",
+                "open_issues": 0,
+                "owner": "dengjuncan",
+                "repo": "VQ4DiT",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICCV",
               "description": "] FedWSQ: Efficient Federated Learning with Weight Standardization and Distribution-Aware Non-Uniform Quantization [code]",
               "children": [],
@@ -4092,6 +5341,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "microsoft/BitNet",
+              "description": "] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official inference framework for 1-bit LLMs",
+                "homepage": null,
+                "id": 838253246,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-07-27T05:52:06Z",
+                "open_issues": 379,
+                "owner": "microsoft",
+                "repo": "BitNet",
+                "stars": 41588,
+                "topics": []
+              },
+              "first_seen": "2026-09-11T20:56:53.740Z"
+            },
+            {
+              "node_type": "item",
               "title": "[MLSys",
               "description": "] AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration [code]",
               "children": [],
@@ -4106,7 +5376,7 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3665,
+                "stars": 3667,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4318,7 +5588,7 @@
             {
               "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs [code]",
+              "description": "] QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs [arXiv] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4331,7 +5601,7 @@
                 "open_issues": 5,
                 "owner": "spcl",
                 "repo": "QuaRot",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4381,7 +5651,7 @@
                 "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "compression",
                   "efficient-inference",
@@ -4405,7 +5675,7 @@
             {
               "node_type": "item",
               "title": "[MLSys",
-              "description": "] Atom: Low-bit Quantization for Efficient and Accurate LLM Serving [code] [arXiv]",
+              "description": "] Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving [code] [arXiv]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4539,7 +5809,7 @@
             {
               "node_type": "item",
               "title": "[Visual Intelligence",
-              "description": "] An empirical study of LLaMA3 quantization: from LLMs to MLLMs [code]",
+              "description": "] An empirical study of LLaMA3 quantization: from LLMs to MLLMs [code] [DOI]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4662,7 +5932,7 @@
                 "open_issues": 4,
                 "owner": "ChangyuanWang17",
                 "repo": "QVLM",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -4820,6 +6090,27 @@
             },
             {
               "node_type": "item",
+              "title": "[NeurIPS",
+              "description": "] LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 876498171,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-12-02T10:50:24Z",
+                "open_issues": 2,
+                "owner": "AboveParadise",
+                "repo": "LLMCBench",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ICML",
               "description": "] Learning from students: Applying t-distributions to explore accurate and efficient formats for llms [code]",
               "children": [],
@@ -4918,7 +6209,7 @@
                 "open_issues": 0,
                 "owner": "Grosenick-Lab-Cornell",
                 "repo": "QuantNets",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -4996,7 +6287,7 @@
             {
               "node_type": "item",
               "title": "[ICML",
-              "description": "] Understanding Int4 Quantization for Language Models: Latency Speedup, Composability, and Failure Cases [arXiv] [Proceedings] [code]",
+              "description": "] Understanding Int4 Quantization for Language Models: Latency Speedup, Composability, and Failure Cases [OpenReview] [arXiv] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5005,11 +6296,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T20:19:16Z",
-                "open_issues": 1594,
+                "last_commit": "2026-11-17T01:28:55Z",
+                "open_issues": 1597,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43326,
+                "stars": 43332,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -5044,7 +6335,7 @@
                 "open_issues": 208,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11067,
+                "stars": 11069,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5061,8 +6352,8 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T01:29:08Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-17T01:23:01Z",
+                "open_issues": 37,
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2732,
@@ -5112,7 +6403,7 @@
             {
               "node_type": "item",
               "title": "[ICML",
-              "description": "] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [code] [arXiv PDF]",
+              "description": "] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5125,7 +6416,7 @@
                 "open_issues": 74,
                 "owner": "mit-han-lab",
                 "repo": "smoothquant",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -5267,7 +6558,7 @@
             {
               "node_type": "item",
               "title": "[CVPR",
-              "description": "] Post-training Quantization on Diffusion Models [code]",
+              "description": "] Post-training Quantization on Diffusion Models [code] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5693,7 +6984,7 @@
             {
               "node_type": "item",
               "title": "[TPAMI",
-              "description": "] Diverse Sample Generation: Pushing the Limit of Generative Data-Free Quantization [code]",
+              "description": "] Diverse Sample Generation: Pushing the Limit of Generative Data-Free Quantization [code] [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5814,11 +7105,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T20:19:16Z",
-                "open_issues": 1594,
+                "last_commit": "2026-11-17T01:28:55Z",
+                "open_issues": 1597,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43326,
+                "stars": 43332,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -5840,7 +7131,7 @@
             {
               "node_type": "item",
               "title": "[ICLR",
-              "description": "] 8-bit Optimizers via Block-wise Quantization [code]",
+              "description": "] 8-bit Optimizers via Block-wise Quantization [code] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5850,10 +7141,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T14:36:37Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8541,
+                "stars": 8543,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -5867,7 +7158,7 @@
             {
               "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale [code]",
+              "description": "] LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale [code] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5877,10 +7168,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T14:36:37Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8541,
+                "stars": 8543,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -6102,7 +7393,7 @@
                 "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "bit",
-                "stars": 114,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -6144,7 +7435,7 @@
                 "open_issues": 3,
                 "owner": "AI-Efficiency",
                 "repo": "BiBERT",
-                "stars": 89,
+                "stars": 88,
                 "topics": [
                   "bert",
                   "binarization"
@@ -6168,7 +7459,7 @@
                 "open_issues": 5,
                 "owner": "Qualcomm-AI-research",
                 "repo": "oscillations-qat",
-                "stars": 82,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -6682,27 +7973,6 @@
             },
             {
               "node_type": "item",
-              "title": "[CVPR",
-              "description": "] Network Quantization with Element-wise Gradient Scaling [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An official implementation of \"Network Quantization with Element-wise Gradient Scaling\" (CVPR 2021) in PyTorch.",
-                "homepage": null,
-                "id": 365973567,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2023-07-14T16:57:03Z",
-                "open_issues": 7,
-                "owner": "cvlab-yonsei",
-                "repo": "EWGS",
-                "stars": 97,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:55.516Z"
-            },
-            {
-              "node_type": "item",
               "title": "[ICLR",
               "description": "] Improving Post Training Neural Quantization: Layer-wise Calibration and Integer Programming [code]",
               "children": [],
@@ -6717,6 +7987,27 @@
                 "open_issues": 8,
                 "owner": "itayhubara",
                 "repo": "CalibTIP",
+                "stars": 97,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:55.516Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR",
+              "description": "] Network Quantization with Element-wise Gradient Scaling [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An official implementation of \"Network Quantization with Element-wise Gradient Scaling\" (CVPR 2021) in PyTorch.",
+                "homepage": null,
+                "id": 365973567,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2023-07-14T16:57:03Z",
+                "open_issues": 7,
+                "owner": "cvlab-yonsei",
+                "repo": "EWGS",
                 "stars": 97,
                 "topics": []
               },
@@ -7079,7 +8370,7 @@
                 "open_issues": 108,
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3169,
+                "stars": 3168,
                 "topics": [
                   "knowledge-distillation",
                   "large-scale-distributed",
@@ -7106,7 +8397,7 @@
                 "open_issues": 108,
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3169,
+                "stars": 3168,
                 "topics": [
                   "knowledge-distillation",
                   "large-scale-distributed",
@@ -7168,7 +8459,7 @@
                 "open_issues": 12,
                 "owner": "sony",
                 "repo": "ai-research-code",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:55.516Z"
@@ -7325,8 +8616,8 @@
             },
             {
               "node_type": "item",
-              "title": "[SysML",
-              "description": "] Riptide: Fast End-to-End Binarized Neural Networks [code]",
+              "title": "[MLSys",
+              "description": "] Riptide: Fast End-to-End Binarized Neural Networks [Paper] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8208,11 +9499,11 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T16:12:31Z",
+                "last_commit": "2026-11-16T16:23:22Z",
                 "open_issues": 88,
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1092,
+                "stars": 1093,
                 "topics": [
                   "compiler",
                   "dataflow",
@@ -8222,6 +9513,32 @@
                 ]
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ACM MM",
+              "description": "] BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet [arXiv] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "(New version is out: https://github.com/hpi-xnor/BMXNet-v2) BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet",
+                "homepage": null,
+                "id": 92060516,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2019-11-18T09:31:01Z",
+                "open_issues": 0,
+                "owner": "hpi-xnor",
+                "repo": "BMXNet",
+                "stars": 352,
+                "topics": [
+                  "binary-neural-networks",
+                  "deep-learning",
+                  "mxnet",
+                  "xnor-convolutions"
+                ]
+              },
+              "first_seen": "2026-11-17T01:51:14.360Z"
             },
             {
               "node_type": "item",
@@ -8444,7 +9761,7 @@
             {
               "node_type": "item",
               "title": "[NeurIPS",
-              "description": "] Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 [code]",
+              "description": "] Binarized Neural Networks [arXiv] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8465,7 +9782,7 @@
             {
               "node_type": "item",
               "title": "[CVPR",
-              "description": "] Quantized convolutional neural networks for mobile devices. code",
+              "description": "] Quantized Convolutional Neural Networks for Mobile Devices code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8485,8 +9802,8 @@
             },
             {
               "node_type": "item",
-              "title": "[NeurIPS",
-              "description": "] Ternary weight networks [code]",
+              "title": "[NeurIPS Workshops",
+              "description": "] Ternary Weight Networks [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8557,11 +9874,11 @@
                 "id": 714073518,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T02:20:39Z",
-                "open_issues": 867,
+                "last_commit": "2026-11-16T21:03:37Z",
+                "open_issues": 869,
                 "owner": "pytorch",
                 "repo": "ao",
-                "stars": 3028,
+                "stars": 3030,
                 "topics": [
                   "brrr",
                   "cuda",
@@ -8592,10 +9909,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T14:36:37Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8541,
+                "stars": 8543,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -8618,11 +9935,11 @@
                 "id": 817962136,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T22:27:42Z",
-                "open_issues": 164,
+                "last_commit": "2026-11-16T22:51:50Z",
+                "open_issues": 160,
                 "owner": "vllm-project",
                 "repo": "llm-compressor",
-                "stars": 3968,
+                "stars": 3971,
                 "topics": [
                   "compression",
                   "quantization"
@@ -8642,11 +9959,11 @@
                 "id": 790916393,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T20:27:59Z",
-                "open_issues": 527,
+                "last_commit": "2026-11-17T01:50:01Z",
+                "open_issues": 533,
                 "owner": "NVIDIA",
                 "repo": "Model-Optimizer",
-                "stars": 5609,
+                "stars": 5612,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -8728,11 +10045,11 @@
                 "id": 257688216,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T00:05:41Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-17T00:45:01Z",
+                "open_issues": 39,
                 "owner": "qualcomm",
                 "repo": "aimet",
-                "stars": 2749,
+                "stars": 2750,
                 "topics": [
                   "auto-ml",
                   "compression",
@@ -8761,8 +10078,8 @@
                 "id": 140494324,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T14:52:55Z",
-                "open_issues": 244,
+                "last_commit": "2026-11-16T16:57:18Z",
+                "open_issues": 242,
                 "owner": "Xilinx",
                 "repo": "brevitas",
                 "stars": 1598,
@@ -8800,11 +10117,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-15T20:49:50Z",
-                "open_issues": 2622,
+                "last_commit": "2026-11-17T01:38:30Z",
+                "open_issues": 2623,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 135203,
+                "stars": 135370,
                 "topics": [
                   "ggml"
                 ]
@@ -8823,11 +10140,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T22:46:06Z",
-                "open_issues": 10431,
+                "last_commit": "2026-11-17T01:50:57Z",
+                "open_issues": 10466,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 96972,
+                "stars": 97054,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -8865,11 +10182,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T15:33:09Z",
-                "open_issues": 2092,
+                "last_commit": "2026-11-17T01:21:53Z",
+                "open_issues": 2133,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 15079,
+                "stars": 15084,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -8892,8 +10209,8 @@
                 "id": 539057023,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T00:33:12Z",
-                "open_issues": 393,
+                "last_commit": "2026-11-17T00:19:56Z",
+                "open_issues": 391,
                 "owner": "NVIDIA",
                 "repo": "TransformerEngine",
                 "stars": 3605,
@@ -8927,7 +10244,7 @@
                 "open_issues": 31,
                 "owner": "nunchux-ai",
                 "repo": "nunchaku",
-                "stars": 3966,
+                "stars": 3968,
                 "topics": [
                   "comfyui",
                   "diffusion-models",
@@ -8958,7 +10275,7 @@
                 "open_issues": 379,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41585,
+                "stars": 41588,
                 "topics": []
               },
               "first_seen": "2026-09-11T20:56:53.740Z"
@@ -8975,11 +10292,11 @@
                 "id": 139168534,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T16:12:31Z",
+                "last_commit": "2026-11-16T16:23:22Z",
                 "open_issues": 88,
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1092,
+                "stars": 1093,
                 "topics": [
                   "compiler",
                   "dataflow",
@@ -9002,11 +10319,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T11:58:26Z",
+                "last_commit": "2026-11-16T11:49:50Z",
                 "open_issues": 1323,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24052,
+                "stars": 24055,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -9051,7 +10368,7 @@
                 "id": 643969141,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-23T16:41:28Z",
+                "last_commit": "2026-11-16T02:43:07Z",
                 "open_issues": 5,
                 "owner": "AI-Efficiency",
                 "repo": "Awesome-Efficient-Diffusion",
@@ -9118,7 +10435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:47:25.644Z",
+    "last_updated": "2026-11-17T01:51:14.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and generative models, vector and lattice quantization, and efficient deployment.",
@@ -9126,11 +10443,11 @@
       "id": 153568046,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-26T13:27:03Z",
+      "last_commit": "2026-11-16T03:15:05Z",
       "open_issues": 5,
       "owner": "AI-Efficiency",
       "repo": "Awesome-Model-Quantization",
-      "stars": 2469,
+      "stars": 2470,
       "topics": [
         "awesome",
         "awesome-list",
@@ -9154,7 +10471,7 @@
         "vector-quantization"
       ]
     },
-    "original_repository_sha": "b044e1f011415e019e462a0849ae0b5803a08c14",
+    "original_repository_sha": "9ce272da029ab37ee9972b0ed2434228d4b8ddcb",
     "enhanced_repository": "enhansome/enhansome-Awesome-Model-Quantization",
     "enhanced_repository_description": null,
     "title": "Awesome Model Quantization with stars"
